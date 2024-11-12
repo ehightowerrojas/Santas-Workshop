@@ -144,6 +144,42 @@
         "name": "59281_W3.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "Crafting_Table_JE4_BE3.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "Crafting_Table_JE4_BE3.webp",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Invisible_Saw_barrier_A.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Invisible_Saw_barrier_A",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Invisible_Saw_Barrier_B.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Invisible_Saw_Barrier_B",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images3.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "images3.jpg",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -156,15 +192,15 @@
   "variables": [],
   "layouts": [
     {
-      "b": 209,
+      "b": 180,
       "disableInputWhenNotFocused": true,
       "mangledName": "Untitled_32scene",
       "name": "Untitled scene",
-      "r": 209,
+      "r": 184,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 209,
+      "v": 182,
       "uiSettings": {
         "grid": false,
         "gridType": "rectangular",
@@ -253,14 +289,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 92,
+          "height": 68,
           "keepRatio": true,
           "layer": "",
           "name": "Conveyor_Belt",
           "persistentUuid": "d6240fd4-0c30-4591-b940-88d0f5bf3e93",
           "width": 649,
           "x": 296,
-          "y": 584,
+          "y": 608,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -276,8 +312,8 @@
           "name": "Toy1",
           "persistentUuid": "271f3941-93bf-41fd-8ec3-31cd1f5457e3",
           "width": 112,
-          "x": 347,
-          "y": 523,
+          "x": 311,
+          "y": 553,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -287,7 +323,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 31,
+          "height": 12,
           "keepRatio": true,
           "layer": "",
           "name": "Saw_Track",
@@ -304,15 +340,81 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 112,
+          "height": 78,
           "keepRatio": true,
           "layer": "",
           "name": "Saw",
           "persistentUuid": "e5ffa1d3-61b2-4a2b-acd2-532d4d6dd2c6",
-          "width": 132,
-          "x": 270,
-          "y": 140,
+          "width": 106,
+          "x": 238,
+          "y": 142,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Crafting_Table",
+          "persistentUuid": "fb17ddda-0d4f-4e2f-b155-00f65daf17fb",
+          "width": 104,
+          "x": 778,
+          "y": 360,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Invisible_Saw_barrier_A",
+          "persistentUuid": "a3499659-2b68-43b2-8375-41285ee6c52a",
+          "width": 0,
+          "x": 214,
+          "y": 158,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Invisible_Saw_Barrier_B",
+          "persistentUuid": "fe0dc0be-f04e-4f74-86e8-4e7008402376",
+          "width": 0,
+          "x": 1027,
+          "y": 160,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 90,
+          "customSize": true,
+          "depth": 1,
+          "height": 58,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barrier",
+          "persistentUuid": "a5de931e-b49b-4223-a3d0-8f24934711b4",
+          "width": 142,
+          "x": 773,
+          "y": 605,
+          "zOrder": 12,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -327,7 +429,23 @@
           "updateIfNotVisible": false,
           "variables": [],
           "effects": [],
-          "behaviors": [],
+          "behaviors": [
+            {
+              "acceleration": 900000,
+              "deceleration": 900000,
+              "maxSpeed": 275,
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
+              "allowDiagonals": true,
+              "angleOffset": 0,
+              "angularMaxSpeed": 0,
+              "customIsometryAngle": 30,
+              "ignoreDefaultControls": false,
+              "movementAngleOffset": 0,
+              "rotateObject": false,
+              "viewpoint": "TopDown"
+            }
+          ],
           "animations": [
             {
               "name": "",
@@ -652,6 +770,248 @@
               ]
             }
           ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Crafting_Table",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Crafting_Table_JE4_BE3.webp",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 16,
+                            "y": 2
+                          },
+                          {
+                            "x": 284,
+                            "y": 2
+                          },
+                          {
+                            "x": 284,
+                            "y": 298
+                          },
+                          {
+                            "x": 16,
+                            "y": 298
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Invisible_Saw_barrier_A",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Invisible_Saw_barrier_A",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Invisible_Saw_barrier_A",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Invisible_Saw_Barrier_B",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Invisible_Saw_Barrier_B",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Invisible_Saw_Barrier_B",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Barrier",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "images3.jpg",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 412,
+                            "y": 0
+                          },
+                          {
+                            "x": 412,
+                            "y": 122
+                          },
+                          {
+                            "x": 0,
+                            "y": 122
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -676,14 +1036,160 @@
             "objectName": "Toy1"
           },
           {
+            "objectName": "Barrier"
+          },
+          {
             "objectName": "Saw_Track"
           },
           {
+            "objectName": "Invisible_Saw_barrier_A"
+          },
+          {
+            "objectName": "Invisible_Saw_Barrier_B"
+          },
+          {
             "objectName": "Saw"
+          },
+          {
+            "objectName": "Crafting_Table"
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Saw",
+                "Invisible_Saw_barrier_A",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Saw"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "Saw",
+                "Invisible_Saw_Barrier_B",
+                "225",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Saw",
+                "Invisible_Saw_Barrier_B",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Saw"
+              ]
+            },
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "Saw",
+                "Invisible_Saw_barrier_A",
+                "150",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Toy1",
+                "Conveyor_Belt",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "AddForceVers"
+              },
+              "parameters": [
+                "Toy1",
+                "Barrier",
+                ".09",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Toy1",
+                "Barrier",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Arreter"
+              },
+              "parameters": [
+                "Toy1"
+              ]
+            }
+          ]
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
@@ -754,6 +1260,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "TopDownMovement",
+          "type": "TopDownMovementBehavior::TopDownMovementBehavior"
         }
       ]
     }
