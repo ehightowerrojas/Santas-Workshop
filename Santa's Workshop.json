@@ -605,6 +605,155 @@
         "name": "NewSprite4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/381e8fb0875e6306eadae8580d5942f470e4a059915b50aa75ce6449b196ffc6_Cat_Spinning_1.png",
+          "name": "Cat_Spinning_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/a3dc0e0dd119ab5754345eb1771339d0df3c186d7283eea53271defe9890f999_Cat_Spinning_2.png",
+          "name": "Cat_Spinning_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d6318b7acee00ad4d86a57574b6c77873c5ad7f2b51eec316fa77909bde29f8d_Cat_Spinning_3.png",
+          "name": "Cat_Spinning_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/7b91c0a40a3f8159393c17e51b93bab1ba23a2f26487a3ee1c6385152ffb0e26_Cat_Spinning_4.png",
+          "name": "Cat_Spinning_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/22d4e0f504f3aa629c0a7e15392dc38fd295faa69254b8847d5b0cfe55b487e1_Cat_Spinning_5.png",
+          "name": "Cat_Spinning_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/09c7df1ce73d6dc3ea4105c4f79a20b2d6b1b3e077838372d69384cb9ab4d98c_Cat_Spinning_6.png",
+          "name": "Cat_Spinning_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/1fd7486d5a692ff658cedb6807119ae53245384575cb60664261b9455f6a5302_Cat_Spinning_7.png",
+          "name": "Cat_Spinning_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Cat_Spinning_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cat_Spinning_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/eab5972e1d8cc0f47a20cecb5e732eaa3810c1e18286498969505e8f9413adae_Cat_Spinning_8.png",
+          "name": "Cat_Spinning_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Spinning.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Spinning",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1071.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1071.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1071.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1071",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1070.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1070",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1069.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1069",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -639,6 +788,16 @@
       "name": "HasSpool",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "HasToy",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "Toys",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -854,7 +1013,7 @@
           "width": 70,
           "x": 315,
           "y": 580,
-          "zOrder": 14,
+          "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -937,6 +1096,70 @@
           "x": 309,
           "y": 17,
           "zOrder": 18,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Toys_Fixed",
+          "persistentUuid": "11c17f23-815b-488d-9a9d-755b9d7f5863",
+          "width": 0,
+          "x": 11,
+          "y": 49,
+          "zOrder": 19,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ToyNum",
+          "persistentUuid": "8ec86dc9-5cf2-4a59-b098-76ed1e3eb781",
+          "width": 0,
+          "x": 231,
+          "y": 49,
+          "zOrder": 20,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Present",
+          "persistentUuid": "32fedc0c-ada9-409d-a9d5-ec0405496de0",
+          "width": 0,
+          "x": 969,
+          "y": 594,
+          "zOrder": -2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Present",
+          "persistentUuid": "0b313df0-56fb-4b90-9f0c-b15d8726750f",
+          "width": 0,
+          "x": 977,
+          "y": 592,
+          "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1114,7 +1337,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Crafting_Table",
           "type": "Sprite",
@@ -1149,20 +1372,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 16,
-                            "y": 2
+                            "x": 19,
+                            "y": 54.5
                           },
                           {
-                            "x": 284,
-                            "y": 2
+                            "x": 282,
+                            "y": 55.5
                           },
                           {
-                            "x": 284,
-                            "y": 298
+                            "x": 281,
+                            "y": 257.5
                           },
                           {
-                            "x": 16,
-                            "y": 298
+                            "x": 19,
+                            "y": 256.5
                           }
                         ]
                       ]
@@ -2112,6 +2335,212 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Toys_Fixed",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Toys Fixed:",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Toys Fixed:",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "ToyNum",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "0",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "0",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "d4785d967dfeade8c98985cdeed94720a133032bf2b97bdec108a1a209d6388f",
+          "name": "Cat",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Spinning",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Spinning",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 0
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Present",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1071",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pixel-art-blue-red-gift-box-with-golden-ribbon-vector-icon-8bit-game-white-background_360488-1069",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 2
+                          },
+                          {
+                            "x": 62,
+                            "y": 2
+                          },
+                          {
+                            "x": 62,
+                            "y": 64
+                          },
+                          {
+                            "x": 2,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -2128,6 +2557,12 @@
               },
               {
                 "objectName": "Spool"
+              },
+              {
+                "objectName": "Toy1"
+              },
+              {
+                "objectName": "Cat"
               }
             ]
           },
@@ -2139,6 +2574,12 @@
               },
               {
                 "objectName": "TimeNum"
+              },
+              {
+                "objectName": "Toys_Fixed"
+              },
+              {
+                "objectName": "ToyNum"
               }
             ]
           },
@@ -2173,13 +2614,13 @@
                 "objectName": "Crafting_Table"
               },
               {
-                "objectName": "Toy1"
-              },
-              {
                 "objectName": "Conveyor_Belt"
               },
               {
                 "objectName": "Barrier"
+              },
+              {
+                "objectName": "Present"
               }
             ]
           },
@@ -2335,6 +2776,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2406,6 +2848,15 @@
                     "=",
                     "\"Time's up!\""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Player",
+                    ""
+                  ]
                 }
               ]
             }
@@ -2417,6 +2868,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Picking up items",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -2852,6 +3304,153 @@
                   ]
                 }
               ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Toy"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Toy1",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Arreter"
+                  },
+                  "parameters": [
+                    "Toy1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "MettreAutour"
+                  },
+                  "parameters": [
+                    "Toy1",
+                    "Player",
+                    "32",
+                    "45"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvFull",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "InvFull",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "HasToy",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Cat"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cat",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreAutour"
+                  },
+                  "parameters": [
+                    "Cat",
+                    "Player",
+                    "32",
+                    "45"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "InvFull",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -2861,10 +3460,23 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Placing + Crafting",
+          "folded": true,
+          "name": "Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Setup\n"
+            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -2932,6 +3544,46 @@
               "conditions": [
                 {
                   "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Crafting_Table",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "HasToy",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "MettreAutour"
+                  },
+                  "parameters": [
+                    "Toy1",
+                    "Crafting_Table",
+                    "32",
+                    "270"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
                     "value": "BooleanVariable"
                   },
                   "parameters": [
@@ -2959,6 +3611,16 @@
                     "=",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "HasToy",
+                    "=",
+                    ""
+                  ]
                 }
               ],
               "actions": [
@@ -2970,6 +3632,216 @@
                     "InvFull",
                     "False",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Crafting"
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Bolt",
+                    "Crafting_Table",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Button2",
+                    "Crafting_Table",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Spool",
+                    "Crafting_Table",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Toy1",
+                    "Crafting_Table",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Bolt",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Button2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Spool",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Toy1",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "Cat",
+                        "Player.X()",
+                        "Player.Y()",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Points",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Cat",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Present",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Toys",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "ToyNum",
+                    "Text",
+                    "=",
+                    "ToString(Toys)"
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Cat",
+                        ""
+                      ]
+                    }
                   ]
                 }
               ]
