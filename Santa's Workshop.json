@@ -524,6 +524,87 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Open Font License/44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
           "name": "gdevelop-asset-store"
         }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "hex-bolt-clipart-design-illustration-free-png.webp",
+        "kind": "image",
+        "metadata": "",
+        "name": "hex-bolt-clipart-design-illustration-free-png.webp",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pngimg.com - clothes_button_PNG14157.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pngimg.com - clothes_button_PNG14157.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "sewing-thread-with-needle-722vOl9-600.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "sewing-thread-with-needle-722vOl9-600.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hex-bolt-clipart-design-illustration-free-png.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hex-bolt-clipart-design-illustration-free-png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/hex-bolt-clipart-design-illustration-free-png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "hex-bolt-clipart-design-illustration-free-png2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pngimg.com - clothes_button_PNG14157.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngimg.com - clothes_button_PNG14157",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/pngimg.com - clothes_button_PNG14158.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "pngimg.com - clothes_button_PNG14158",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pngtree-a-spool-of-thread-png-image_11518872.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "pngtree-a-spool-of-thread-png-image_11518872.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite4.png\"}",
+        "name": "NewSprite4",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -538,6 +619,11 @@
       "name": "Time",
       "type": "number",
       "value": 0
+    },
+    {
+      "name": "HasItem",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -565,7 +651,13 @@
         "windowMask": false
       },
       "objectsGroups": [],
-      "variables": [],
+      "variables": [
+        {
+          "name": "InvFull",
+          "type": "boolean",
+          "value": false
+        }
+      ],
       "instances": [
         {
           "angle": 0,
@@ -579,7 +671,7 @@
           "width": 59,
           "x": 612,
           "y": 341,
-          "zOrder": 1,
+          "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -656,14 +748,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 2,
-          "height": 104,
+          "height": 75,
           "keepRatio": true,
           "layer": "",
           "name": "Crafting_Table",
           "persistentUuid": "fb17ddda-0d4f-4e2f-b155-00f65daf17fb",
-          "width": 104,
-          "x": 778,
-          "y": 360,
+          "width": 76,
+          "x": 792,
+          "y": 504,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -789,14 +881,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 104,
+          "height": 80,
           "keepRatio": true,
           "layer": "",
           "name": "Saw",
           "persistentUuid": "f13a0dc4-1140-42c3-90aa-a14fb5275a0c",
-          "width": 141,
+          "width": 100,
           "x": 259,
-          "y": 130,
+          "y": 141,
           "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
@@ -925,11 +1017,11 @@
         },
         {
           "assetStoreId": "",
-          "height": 32,
+          "height": 64,
           "name": "Button",
           "texture": "81U7rrsM8zL.jpg",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "width": 64,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -1379,7 +1471,7 @@
           }
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "04458b0edc6d387709a7393d302010db9933d6d8fcd0e8150c6db22cdea18d2b",
           "name": "Saw",
           "type": "Sprite",
@@ -1415,20 +1507,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1451,20 +1543,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1487,20 +1579,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1523,20 +1615,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1559,20 +1651,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1595,20 +1687,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1631,20 +1723,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1667,20 +1759,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1715,20 +1807,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 5,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 0
+                            "x": 32,
+                            "y": 5.5
                           },
                           {
-                            "x": 37,
-                            "y": 20
+                            "x": 32,
+                            "y": 19
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 5,
+                            "y": 19
                           }
                         ]
                       ]
@@ -1822,11 +1914,208 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bolt",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "hex-bolt-clipart-design-illustration-free-png",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "hex-bolt-clipart-design-illustration-free-png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Button2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "pngimg.com - clothes_button_PNG14157",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngimg.com - clothes_button_PNG14158",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Spool",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 11
+                          },
+                          {
+                            "x": 50,
+                            "y": 11
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 13,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "Items",
+            "children": [
+              {
+                "objectName": "Bolt"
+              },
+              {
+                "objectName": "Button2"
+              },
+              {
+                "objectName": "Spool"
+              }
+            ]
+          },
           {
             "folderName": "UI",
             "children": [
@@ -2103,6 +2392,314 @@
                 "Text",
                 "=",
                 "\"Time's up!\""
+              ]
+            }
+          ]
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Picking up items",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Bolt"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Nuts_Bolts",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "=",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Bolt",
+                "Player.X()",
+                "Player.Y()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Bolt",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreAutour"
+              },
+              "parameters": [
+                "Bolt",
+                "Player",
+                "32",
+                "45"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Button"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Button",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "=",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Button2",
+                "Player.X()",
+                "Player.Y()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Button2",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreAutour"
+              },
+              "parameters": [
+                "Button2",
+                "Player",
+                "32",
+                "45"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "True",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Comment",
+          "color": {
+            "b": 109,
+            "g": 230,
+            "r": 255,
+            "textB": 0,
+            "textG": 0,
+            "textR": 0
+          },
+          "comment": "Spool"
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Cloth",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "=",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "BuiltinCommonInstructions::Once"
+              },
+              "parameters": []
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Create"
+              },
+              "parameters": [
+                "",
+                "Spool",
+                "Player.X()",
+                "Player.Y()",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "CollisionNP"
+              },
+              "parameters": [
+                "Player",
+                "Spool",
+                "",
+                "",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "MettreAutour"
+              },
+              "parameters": [
+                "Spool",
+                "Player",
+                "32",
+                "45"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetBooleanVariable"
+              },
+              "parameters": [
+                "InvFull",
+                "True",
+                ""
               ]
             }
           ]
