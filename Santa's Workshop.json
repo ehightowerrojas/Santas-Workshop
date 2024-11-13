@@ -21,7 +21,7 @@
     "useExternalSourceFiles": false,
     "version": "1.0.0",
     "name": "Santa's Workshop",
-    "description": "",
+    "description": "Santa’s Workshop is a resource management game where the player tries to repair as many toys as possible in a certain amount of time. There would be different resources the player has to collect in order to repair a randomly generated broken toy. Some of these resources will be easily accessible, others will be protected by obstacles the player must navigate around. Our core mechanics are: top-down movement, resource collection, and the repair of the toy itself (crafting). Currently, our game only includes one level, however, we are planning on adding more if time allows. In this way, our player would progress through levels increasing in difficulty with the first level introducing all the core mechanics in a user-friendly way.",
     "author": "",
     "windowWidth": 1280,
     "windowHeight": 720,
@@ -52,8 +52,12 @@
     },
     "authorIds": [],
     "authorUsernames": [],
-    "categories": [],
-    "playableDevices": [],
+    "categories": [
+      "leaderboard"
+    ],
+    "playableDevices": [
+      "keyboard"
+    ],
     "extensionProperties": [],
     "platforms": [
       {
@@ -662,7 +666,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.8141881203709929,
+        "zoomFactor": 0.5468750000000014,
         "windowMask": false
       },
       "objectsGroups": [],
