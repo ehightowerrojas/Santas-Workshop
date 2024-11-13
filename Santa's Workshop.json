@@ -180,6 +180,339 @@
         "name": "images3.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewTiledSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/fcba78cb96bdfc824107d4857b7c4e9a6409b21a047f63289975273c22028b44_Bun_Spinning_1.png",
+          "name": "Bun_Spinning_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/d398d6888781fcd1eeb7b917804f67898f5bcb2ffe2598276c863a5fec8eb84c_Bun_Spinning_2.png",
+          "name": "Bun_Spinning_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e769eb35f311f4fa2019f2ce3374227ea406e9c06f7f085e64e30a41fc6d34df_Bun_Spinning_3.png",
+          "name": "Bun_Spinning_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/007c25d5ba119edf08eef2a3dd7d322785abf8cdb386aa64a5ee768765a6f727_Bun_Spinning_4.png",
+          "name": "Bun_Spinning_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/605f6d03d2819edc5383708d030ba743cf8dc20f44ecf0107f1e567b8f0dc34d_Bun_Spinning_5.png",
+          "name": "Bun_Spinning_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/aa9d72e6aff63c5a193d3d3c7c2a9c925dea6af5ff14d77816f6cd6861cf653a_Bun_Spinning_6.png",
+          "name": "Bun_Spinning_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/457eb86b2dcf5bfad81ab5c2cfaf4558a3b7226200936e916a8a42554354fc9c_Bun_Spinning_7.png",
+          "name": "Bun_Spinning_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Bun_Spinning_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Bun_Spinning_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/16x16 Pixel art spinning Items/e8a71965c3312a101e25d89aceb39c64d7e86873ab4f97d447c9e4fcf9f1cb3f_Bun_Spinning_8.png",
+          "name": "Bun_Spinning_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "9patch_Wood Background_all_64.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pirate Bomb Pack/Tile Sets/Wood Background/cde7121802cd226997240e3941fbaf9193a225e5ffff40cc849e918047959711_9patch_Wood Background_all_64.png",
+          "name": "9patch_Wood Background_all_64.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_Off.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_Off.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_Off.png",
+          "name": "Saw_Off.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_1.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/8215537950e4e02640f87df890132c2d9c19c42dbaf5d0cc8237272112941978_Saw_On_1.png",
+          "name": "Saw_On_1.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_2.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/1d982f3e006a7ac6b76bca8cefbf716fd017b25f7e0218942276b4dd92ac1813_Saw_On_2.png",
+          "name": "Saw_On_2.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_3.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b208726b0292bb1f401f3738902ec190c004841ae8c555b2817d9f19ef46ca62_Saw_On_3.png",
+          "name": "Saw_On_3.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_4.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/b6119060081879814ea630f152a39fb3c303d421b797515814c045b73b94abdf_Saw_On_4.png",
+          "name": "Saw_On_4.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_5.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/2cfa1cffe1380dd56016085e018c4b68844c6f669e67925dd365481f8ef26586_Saw_On_5.png",
+          "name": "Saw_On_5.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_6.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/75d8836f8bfc835f3217c0468d04f8aae970f136231c792f1251b73f5e868058_Saw_On_6.png",
+          "name": "Saw_On_6.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_7.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/6351b1a83d1930df91b19b49cc23a375aa154ee74f7a31280acc6abb6f1b1fd2_Saw_On_7.png",
+          "name": "Saw_On_7.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Saw_On_8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Saw_On_8.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Adventure Pack/Traps/Saw/63cce13ef5f9e917ed2de1359357510061e462e6cc8183553c0fb0c70a3c03f9_Saw_On_8.png",
+          "name": "Saw_On_8.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On3.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On3",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On4.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On4",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On5",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On6",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On7",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "On8",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -261,8 +594,8 @@
           "name": "Button",
           "persistentUuid": "933a9a66-5902-4100-9db7-5ab19f974a34",
           "width": 285,
-          "x": 503,
-          "y": 33,
+          "x": 510,
+          "y": 76,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -289,40 +622,6 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 68,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Conveyor_Belt",
-          "persistentUuid": "d6240fd4-0c30-4591-b940-88d0f5bf3e93",
-          "width": 649,
-          "x": 296,
-          "y": 608,
-          "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 112,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Toy1",
-          "persistentUuid": "271f3941-93bf-41fd-8ec3-31cd1f5457e3",
-          "width": 112,
-          "x": 311,
-          "y": 553,
-          "zOrder": 6,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 12,
           "keepRatio": true,
           "layer": "",
@@ -332,23 +631,6 @@
           "x": 240,
           "y": 174,
           "zOrder": 7,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 78,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Saw",
-          "persistentUuid": "e5ffa1d3-61b2-4a2b-acd2-532d4d6dd2c6",
-          "width": 106,
-          "x": 238,
-          "y": 142,
-          "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -403,18 +685,102 @@
           "initialVariables": []
         },
         {
-          "angle": 90,
+          "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 58,
+          "height": 26,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Conveyor_Belt",
+          "persistentUuid": "291c663d-7bbe-4d1e-88a5-d2abdfb0ae4d",
+          "width": 635,
+          "x": 307,
+          "y": 610,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 270,
+          "customSize": true,
+          "depth": 1,
+          "height": 60,
           "keepRatio": true,
           "layer": "",
           "name": "Barrier",
-          "persistentUuid": "a5de931e-b49b-4223-a3d0-8f24934711b4",
-          "width": 142,
-          "x": 773,
-          "y": 605,
-          "zOrder": 12,
+          "persistentUuid": "1096b83d-1bfc-43f5-98a3-fab4683cc425",
+          "width": 84,
+          "x": 814,
+          "y": 602,
+          "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 70,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Toy1",
+          "persistentUuid": "d5f09476-f366-4710-adde-919178a4998d",
+          "width": 70,
+          "x": 315,
+          "y": 580,
+          "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 647,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WoodBackground",
+          "persistentUuid": "00ecc5af-5e4a-4723-b878-63830c1829e3",
+          "width": 1249,
+          "x": -3,
+          "y": 74,
+          "zOrder": -1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "wall_placeholder",
+          "persistentUuid": "643753bb-794d-42f2-9f49-c0335bf480d0",
+          "width": 0,
+          "x": 579,
+          "y": 29,
+          "zOrder": 15,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 104,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Saw",
+          "persistentUuid": "f13a0dc4-1140-42c3-90aa-a14fb5275a0c",
+          "width": 141,
+          "x": 259,
+          "y": 130,
+          "zOrder": 16,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -431,11 +797,11 @@
           "effects": [],
           "behaviors": [
             {
+              "name": "TopDownMovement",
+              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 900000,
               "deceleration": 900000,
               "maxSpeed": 275,
-              "name": "TopDownMovement",
-              "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "allowDiagonals": true,
               "angleOffset": 0,
               "angularMaxSpeed": 0,
@@ -533,126 +899,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Conveyor_Belt",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "images2.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 275,
-                            "y": 0
-                          },
-                          {
-                            "x": 275,
-                            "y": 183
-                          },
-                          {
-                            "x": 0,
-                            "y": 183
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Toy1",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "34230700232069x20042065.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 800,
-                            "y": 0
-                          },
-                          {
-                            "x": 800,
-                            "y": 800
-                          },
-                          {
-                            "x": 0,
-                            "y": 800
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "Saw_Track",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -701,66 +947,6 @@
                           {
                             "x": 0,
                             "y": 64
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "Saw",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "59281_W3.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 1200,
-                            "y": 0
-                          },
-                          {
-                            "x": 1200,
-                            "y": 1200
-                          },
-                          {
-                            "x": 0,
-                            "y": 1200
                           }
                         ]
                       ]
@@ -954,7 +1140,18 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "height": 32,
+          "name": "Conveyor_Belt",
+          "texture": "NewTiledSprite",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "",
           "name": "Barrier",
           "type": "Sprite",
@@ -964,16 +1161,196 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewSprite",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": false,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.08,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "images3.jpg",
+                      "image": "NewSprite3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 25,
+                            "y": 8
+                          },
+                          {
+                            "x": 61,
+                            "y": 8
+                          },
+                          {
+                            "x": 61,
+                            "y": 19
+                          },
+                          {
+                            "x": 25,
+                            "y": 19
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "c326b49fa400bfc5f51a7c8d69d9d2b228370e9244ab621f919f9a5f0943659d",
+          "name": "Toy1",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Spinning",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 9999,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Bun_Spinning_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 0
+                          },
+                          {
+                            "x": 13,
+                            "y": 16
+                          },
+                          {
+                            "x": 3,
+                            "y": 16
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "08d9802965c3beec17416c0e0ff3f459710d2e2bf155c0e0ece4459d4efa98ec",
+          "bottomMargin": 64,
+          "height": 192,
+          "leftMargin": 64,
+          "name": "WoodBackground",
+          "rightMargin": 64,
+          "texture": "9patch_Wood Background_all_64.png",
+          "tiled": true,
+          "topMargin": 64,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 192,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "wall_placeholder",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "WALL GOES HERE",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "WALL GOES HERE",
+            "font": "",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "04458b0edc6d387709a7393d302010db9933d6d8fcd0e8150c6db22cdea18d2b",
+          "name": "Saw",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "On",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -993,16 +1370,316 @@
                             "y": 0
                           },
                           {
-                            "x": 412,
+                            "x": 37,
                             "y": 0
                           },
                           {
-                            "x": 412,
-                            "y": 122
+                            "x": 37,
+                            "y": 20
                           },
                           {
                             "x": 0,
-                            "y": 122
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On3",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "On8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Off",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Saw_Off.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 0
+                          },
+                          {
+                            "x": 37,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
                           }
                         ]
                       ]
@@ -1018,40 +1695,56 @@
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Player"
+            "folderName": "SceneAssets",
+            "children": [
+              {
+                "objectName": "Player"
+              },
+              {
+                "objectName": "Nuts_Bolts"
+              },
+              {
+                "objectName": "Button"
+              },
+              {
+                "objectName": "Cloth"
+              },
+              {
+                "objectName": "Saw_Track"
+              },
+              {
+                "objectName": "Invisible_Saw_barrier_A"
+              },
+              {
+                "objectName": "Invisible_Saw_Barrier_B"
+              },
+              {
+                "objectName": "Crafting_Table"
+              },
+              {
+                "objectName": "Toy1"
+              },
+              {
+                "objectName": "Conveyor_Belt"
+              },
+              {
+                "objectName": "Barrier"
+              }
+            ]
           },
           {
-            "objectName": "Nuts_Bolts"
-          },
-          {
-            "objectName": "Button"
-          },
-          {
-            "objectName": "Cloth"
-          },
-          {
-            "objectName": "Conveyor_Belt"
-          },
-          {
-            "objectName": "Toy1"
-          },
-          {
-            "objectName": "Barrier"
-          },
-          {
-            "objectName": "Saw_Track"
-          },
-          {
-            "objectName": "Invisible_Saw_barrier_A"
-          },
-          {
-            "objectName": "Invisible_Saw_Barrier_B"
+            "folderName": "Background",
+            "children": [
+              {
+                "objectName": "wall_placeholder"
+              },
+              {
+                "objectName": "WoodBackground"
+              }
+            ]
           },
           {
             "objectName": "Saw"
-          },
-          {
-            "objectName": "Crafting_Table"
           }
         ]
       },
@@ -1126,7 +1819,7 @@
               "parameters": [
                 "Saw",
                 "Invisible_Saw_barrier_A",
-                "150",
+                "225",
                 "1"
               ]
             }
@@ -1260,6 +1953,10 @@
         {
           "name": "Scale",
           "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
         },
         {
           "name": "TopDownMovement",
