@@ -641,7 +641,7 @@
         "alwaysLoaded": false,
         "file": "34230700232069x20042066.jpg",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"34230700232069x20042066.jpg\",\"extension\":\".png\"}",
         "name": "34230700232069x20042066.jpg",
         "smoothed": true,
         "userAdded": false
@@ -708,6 +708,33 @@
         "name": "Santas-Toy-Bag.jpg",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/CraftingPanel.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/CraftingPanel.png\"}",
+        "name": "CraftingPanel",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/imagesfixed.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "imagesfixed",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/imagesfixed2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "imagesfixed2",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -770,10 +797,31 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5653158055126326,
+        "zoomFactor": 0.5468750000000022,
         "windowMask": false
       },
-      "objectsGroups": [],
+      "objectsGroups": [
+        {
+          "name": "Crafting UI",
+          "objects": [
+            {
+              "name": "CraftingPanel"
+            },
+            {
+              "name": "Bolt_Craft"
+            },
+            {
+              "name": "Spool_Craft"
+            },
+            {
+              "name": "Button_Craft"
+            },
+            {
+              "name": "Toy_Craft"
+            }
+          ]
+        }
+      ],
       "variables": [
         {
           "name": "InvFull",
@@ -948,8 +996,8 @@
           "name": "Barrier",
           "persistentUuid": "1096b83d-1bfc-43f5-98a3-fab4683cc425",
           "width": 84,
-          "x": 814,
-          "y": 602,
+          "x": 817,
+          "y": 605,
           "zOrder": 13,
           "numberProperties": [],
           "stringProperties": [],
@@ -1083,6 +1131,107 @@
           "x": -79,
           "y": 555,
           "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 572,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "CraftingPanel",
+          "persistentUuid": "e69c2ce4-e9cc-4683-8ee6-011e16225c6e",
+          "width": 866,
+          "x": 191,
+          "y": 58,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 81,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Button_Craft",
+          "persistentUuid": "6d654412-eeca-48f4-a556-96e20e16bb27",
+          "width": 81,
+          "x": 916,
+          "y": 146,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 172,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Spool_Craft",
+          "persistentUuid": "2f6e930d-ce50-45a1-a152-7324e74dc085",
+          "width": 172,
+          "x": 872,
+          "y": 379,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 121,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Bolt_Craft",
+          "persistentUuid": "21372327-a9c9-462c-9b64-6a637bc092d5",
+          "width": 121,
+          "x": 273,
+          "y": 361,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 422,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Toy_Craft",
+          "persistentUuid": "722f4cf2-4514-47eb-985e-c6104a72510d",
+          "width": 447,
+          "x": 429,
+          "y": 147,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "CraftSuccess",
+          "persistentUuid": "b5052fa2-6059-4348-b399-eb39c7d2d8c6",
+          "width": 0,
+          "x": 211,
+          "y": 87,
+          "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2551,11 +2700,366 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "bottomMargin": 0,
+          "height": 32,
+          "leftMargin": 0,
+          "name": "CraftingPanel",
+          "rightMargin": 0,
+          "texture": "CraftingPanel",
+          "tiled": true,
+          "topMargin": 0,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Button_Craft",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Draggable",
+              "type": "DraggableBehavior::Draggable"
+            }
+          ],
+          "animations": [
+            {
+              "name": "pngimg.com - clothes_button_PNG14157",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "pngimg.com - clothes_button_PNG14158",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 20,
+                            "y": 20
+                          },
+                          {
+                            "x": 0,
+                            "y": 20
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Spool_Craft",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Draggable",
+              "type": "DraggableBehavior::Draggable"
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite4",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 13,
+                            "y": 11
+                          },
+                          {
+                            "x": 50,
+                            "y": 11
+                          },
+                          {
+                            "x": 50,
+                            "y": 53
+                          },
+                          {
+                            "x": 13,
+                            "y": 53
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Bolt_Craft",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "checkCollisionMask": true,
+              "name": "Draggable",
+              "type": "DraggableBehavior::Draggable"
+            }
+          ],
+          "animations": [
+            {
+              "name": "hex-bolt-clipart-design-illustration-free-png",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "hex-bolt-clipart-design-illustration-free-png2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Toy_Craft",
+          "preScale": 0.2,
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "imagesfixed",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 999,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "imagesfixed2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 12,
+                            "y": 4
+                          },
+                          {
+                            "x": 188,
+                            "y": 4
+                          },
+                          {
+                            "x": 188,
+                            "y": 196
+                          },
+                          {
+                            "x": 12,
+                            "y": 196
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "CraftSuccess",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Craft Successful!",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 20,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Craft Successful!",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 20,
+            "color": "0;0;0"
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
+          {
+            "folderName": "Crafting UI",
+            "children": [
+              {
+                "objectName": "CraftingPanel"
+              },
+              {
+                "objectName": "Button_Craft"
+              },
+              {
+                "objectName": "Spool_Craft"
+              },
+              {
+                "objectName": "Bolt_Craft"
+              },
+              {
+                "objectName": "Toy_Craft"
+              },
+              {
+                "objectName": "CraftSuccess"
+              }
+            ]
+          },
           {
             "folderName": "Items",
             "children": [
@@ -2647,6 +3151,9 @@
                 "objectName": "BrickWall"
               }
             ]
+          },
+          {
+            "objectName": "NewSprite"
           }
         ]
       },
@@ -2836,6 +3343,37 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Crafting UI"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CraftSuccess"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
                     "value": "ResetTimer"
                   },
                   "parameters": [
@@ -2899,6 +3437,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Picking up items",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3770,10 +4309,18 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "Delete"
+                        "value": "Montre"
                       },
                       "parameters": [
-                        "Press_E_to_Craft",
+                        "Crafting UI",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "MontreSouris"
+                      },
+                      "parameters": [
                         ""
                       ]
                     },
@@ -3788,13 +4335,10 @@
                     },
                     {
                       "type": {
-                        "value": "Create"
+                        "value": "Delete"
                       },
                       "parameters": [
-                        "",
-                        "FixedToy",
-                        "Player.X()",
-                        "Player.Y()",
+                        "Press_E_to_Craft",
                         ""
                       ]
                     },
@@ -3833,7 +4377,135 @@
                         "Bolt",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "FixedToy",
+                        "Player.X()",
+                        "Player.Y()",
+                        ""
+                      ]
                     }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "CraftingPanel",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Bolt_Craft",
+                    "Toy_Craft",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Spool_Craft",
+                    "Toy_Craft",
+                    "",
+                    "",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Button_Craft",
+                    "Toy_Craft",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "CraftSuccess",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Wait"
+                  },
+                  "parameters": [
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Crafting UI"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CacheSouris"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CraftSuccess"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Player",
+                    "TopDownMovement",
+                    "yes"
                   ]
                 }
               ]
@@ -4096,6 +4768,39 @@
           "isLightingLayer": false,
           "isLocked": false,
           "name": "UI",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Crafting UI",
           "renderingType": "",
           "visibility": true,
           "cameras": [],
