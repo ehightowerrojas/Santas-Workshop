@@ -1139,6 +1139,22 @@
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "CraftSuccess",
+          "persistentUuid": "8da226c0-8054-4c05-af39-6f20aeffa65c",
+          "width": 0,
+          "x": 282,
+          "y": 204,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
         }
       ],
       "objects": [
@@ -3354,42 +3370,10 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "DepartScene"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "Crafting UI"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "CraftSuccess"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -3410,6 +3394,14 @@
                   "parameters": [
                     "",
                     "\"SceneTime\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CraftSuccess"
                   ]
                 }
               ]
@@ -3468,6 +3460,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Picking up items",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4482,6 +4475,15 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "CraftSuccess",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
@@ -4523,6 +4525,34 @@
                   "parameters": [
                     "Crafting UI",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Player",
+                    "CraftingPanel",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "CraftSuccess"
                   ]
                 }
               ]
@@ -8407,22 +8437,6 @@
           "x": 241,
           "y": 286,
           "zOrder": 5,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "CraftSuccess",
-          "persistentUuid": "ce457806-d0a1-4ab8-adef-9930c9f3ea5c",
-          "width": 0,
-          "x": 221,
-          "y": 107,
-          "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
