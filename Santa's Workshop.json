@@ -1010,23 +1010,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 80,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Saw",
-          "persistentUuid": "f13a0dc4-1140-42c3-90aa-a14fb5275a0c",
-          "width": 100,
-          "x": 259,
-          "y": 141,
-          "zOrder": 16,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -1144,99 +1127,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 572,
+          "height": 68,
           "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "CraftingPanel",
-          "persistentUuid": "e69c2ce4-e9cc-4683-8ee6-011e16225c6e",
-          "width": 866,
-          "x": 191,
-          "y": 58,
-          "zOrder": 24,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 4,
-          "height": 81,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "Button_Craft",
-          "persistentUuid": "6d654412-eeca-48f4-a556-96e20e16bb27",
-          "width": 81,
-          "x": 916,
+          "layer": "",
+          "name": "Saw",
+          "persistentUuid": "925d6f08-c5e3-4436-87bd-d4a1ae6f186e",
+          "width": 86,
+          "x": 255,
           "y": 146,
-          "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 3,
-          "height": 172,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "Spool_Craft",
-          "persistentUuid": "2f6e930d-ce50-45a1-a152-7324e74dc085",
-          "width": 172,
-          "x": 872,
-          "y": 379,
-          "zOrder": 27,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 4,
-          "height": 121,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "Bolt_Craft",
-          "persistentUuid": "21372327-a9c9-462c-9b64-6a637bc092d5",
-          "width": 121,
-          "x": 273,
-          "y": 361,
-          "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 422,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "Toy_Craft",
-          "persistentUuid": "722f4cf2-4514-47eb-985e-c6104a72510d",
-          "width": 447,
-          "x": 429,
-          "y": 147,
-          "zOrder": 29,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "Crafting UI",
-          "name": "CraftSuccess",
-          "persistentUuid": "b5052fa2-6059-4348-b399-eb39c7d2d8c6",
-          "width": 0,
-          "x": 211,
-          "y": 87,
-          "zOrder": 30,
+          "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3569,7 +3468,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Picking up items",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4224,7 +4122,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Placing + Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4442,11 +4339,14 @@
                   "actions": [
                     {
                       "type": {
-                        "value": "Montre"
+                        "value": "BuiltinExternalLayouts::CreateObjectsFromExternalLayout"
                       },
                       "parameters": [
-                        "Crafting UI",
-                        ""
+                        "",
+                        "\"Crafting UI\"",
+                        "Crafting UI.X()",
+                        "Crafting UI.Y()",
+                        "0"
                       ]
                     },
                     {
@@ -4592,27 +4492,10 @@
                 },
                 {
                   "type": {
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "CraftSuccess",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
                     "1"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "Crafting UI"
                   ]
                 },
                 {
@@ -4625,20 +4508,21 @@
                 },
                 {
                   "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "CraftSuccess"
-                  ]
-                },
-                {
-                  "type": {
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
                     "Player",
                     "TopDownMovement",
                     "yes"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Crafting UI",
+                    ""
                   ]
                 }
               ]
@@ -4681,7 +4565,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4802,6 +4685,46 @@
                   },
                   "parameters": [
                     "InvFull",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "HasBrokenToy",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "HasBolt",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "HasButton",
+                    "False",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "HasSpool",
                     "False",
                     ""
                   ]
@@ -8398,6 +8321,127 @@
       "eventsBasedObjects": []
     }
   ],
-  "externalLayouts": [],
+  "externalLayouts": [
+    {
+      "associatedLayout": "Untitled scene",
+      "name": "Crafting UI",
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 546,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "CraftingPanel",
+          "persistentUuid": "94c7021e-02c6-446b-b7d4-2cfd0943bba1",
+          "width": 891,
+          "x": 201,
+          "y": 79,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 282,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Toy_Craft",
+          "persistentUuid": "b1f24901-6694-4e3d-a71b-3f4894a6a70a",
+          "width": 306,
+          "x": 485,
+          "y": 214,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 99,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Button_Craft",
+          "persistentUuid": "87445d70-b901-4149-9575-70fc9882f00b",
+          "width": 103,
+          "x": 938,
+          "y": 187,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 125,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Spool_Craft",
+          "persistentUuid": "18e55e45-bfb3-455a-a54c-046df51e8bad",
+          "width": 158,
+          "x": 834,
+          "y": 423,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 178,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "Bolt_Craft",
+          "persistentUuid": "f2e74602-403a-4fbd-8cd9-bec5348c7096",
+          "width": 170,
+          "x": 241,
+          "y": 286,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "Crafting UI",
+          "name": "CraftSuccess",
+          "persistentUuid": "ce457806-d0a1-4ab8-adef-9930c9f3ea5c",
+          "width": 0,
+          "x": 221,
+          "y": 107,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "editionSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      }
+    }
+  ],
   "externalSourceFiles": []
 }
