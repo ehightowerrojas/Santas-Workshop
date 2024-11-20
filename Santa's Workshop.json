@@ -996,6 +996,24 @@
         "name": "assets\\9patch_Wood Background_all_64.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/workstation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\workstation.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/bear(broken).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\bear(broken).png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1063,7 +1081,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.667277399833,
+        "zoomFactor": 0.32169117647058987,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1403,15 +1421,15 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 0,
-          "height": 269,
+          "depth": 1,
+          "height": 142,
           "keepRatio": true,
           "layer": "Base Base Layer",
           "name": "ToyBag",
           "persistentUuid": "45d38bd2-d113-426f-996f-a21c2d368edd",
           "width": 149,
           "x": 681,
-          "y": 266,
+          "y": 393,
           "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
@@ -3450,7 +3468,6 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "ToyBag",
-          "persistentUuid": "c3b96363-a025-45ff-8d03-a092368411ec",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3569,8 +3586,8 @@
           "leftMargin": 0,
           "name": "CraftingPanel",
           "rightMargin": 0,
-          "texture": "CraftingPanel",
-          "tiled": true,
+          "texture": "customassets\\Items\\workstation.png",
+          "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
           "width": 32,
@@ -3582,6 +3599,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Button_Craft",
+          "preScale": 2,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3649,6 +3667,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Spool_Craft",
+          "preScale": 2,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3716,6 +3735,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Bolt_Craft",
+          "preScale": 2,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3794,7 +3814,6 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Toy_Craft",
-          "preScale": 0.2,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3812,7 +3831,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "imagesfixed2",
+                      "image": "customassets\\Items\\bear(broken).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3828,20 +3847,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 12,
-                            "y": 4
+                            "x": 156,
+                            "y": 12
                           },
                           {
-                            "x": 188,
-                            "y": 4
+                            "x": 344,
+                            "y": 12
                           },
                           {
-                            "x": 188,
-                            "y": 196
+                            "x": 344,
+                            "y": 236
                           },
                           {
-                            "x": 12,
-                            "y": 196
+                            "x": 156,
+                            "y": 236
                           }
                         ]
                       ]
@@ -3922,10 +3941,10 @@
                 "objectName": "Spool_Craft"
               },
               {
-                "objectName": "Bolt_Craft"
+                "objectName": "Toy_Craft"
               },
               {
-                "objectName": "Toy_Craft"
+                "objectName": "Bolt_Craft"
               },
               {
                 "objectName": "CraftSuccess"
@@ -4038,6 +4057,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5065,7 +5085,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Placing + Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5546,6 +5565,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5660,6 +5680,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Player Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
