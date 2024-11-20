@@ -951,6 +951,51 @@
         "name": "customassets\\Items\\cotton.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "pixel_art_study___tiles__1_by_misfitoki_deqc368-fullview.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "pixel_art_study___tiles__1_by_misfitoki_deqc368-fullview.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "e4a4c10c8dca256cd69abd2854c7ec9a.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "e4a4c10c8dca256cd69abd2854c7ec9a.jpg",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "h7jxd8q0yd591.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "h7jxd8q0yd591.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "h7jxd8q0yd591resize.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "h7jxd8q0yd591resize.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/9patch_Wood Background_all_64.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\9patch_Wood Background_all_64.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1018,7 +1063,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.7130377630690424,
+        "zoomFactor": 0.667277399833,
         "windowMask": false
       },
       "objectsGroups": [
@@ -1100,8 +1145,8 @@
           "name": "Button",
           "persistentUuid": "933a9a66-5902-4100-9db7-5ab19f974a34",
           "width": 242,
-          "x": 511,
-          "y": 55,
+          "x": 510,
+          "y": 103,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -1117,8 +1162,8 @@
           "name": "Cloth",
           "persistentUuid": "6b6b162e-df94-4621-9dee-e6b7d6dc9ca5",
           "width": 247,
-          "x": 906,
-          "y": 254,
+          "x": 882,
+          "y": 292,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1134,8 +1179,8 @@
           "name": "Saw_Track",
           "persistentUuid": "6db56bca-8731-4f0b-a272-548b529d516c",
           "width": 793,
-          "x": 240,
-          "y": 174,
+          "x": 241,
+          "y": 230,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1168,7 +1213,7 @@
           "persistentUuid": "a3499659-2b68-43b2-8375-41285ee6c52a",
           "width": 0,
           "x": 214,
-          "y": 158,
+          "y": 202,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -1183,8 +1228,8 @@
           "name": "Invisible_Saw_Barrier_B",
           "persistentUuid": "fe0dc0be-f04e-4f74-86e8-4e7008402376",
           "width": 0,
-          "x": 1027,
-          "y": 160,
+          "x": 1005,
+          "y": 202,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -1260,7 +1305,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 105,
+          "height": 151,
           "keepRatio": true,
           "layer": "Base Base Layer",
           "name": "BrickWall",
@@ -1275,23 +1320,6 @@
         },
         {
           "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 122,
-          "keepRatio": true,
-          "layer": "",
-          "name": "ToyBag",
-          "persistentUuid": "7b43f52a-9e9d-4155-9bb1-80f71344f061",
-          "width": 110,
-          "x": 709,
-          "y": 401,
-          "zOrder": 21,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": false,
           "height": 0,
           "keepRatio": true,
@@ -1299,8 +1327,8 @@
           "name": "Fixed_Toy_Count",
           "persistentUuid": "b1f9cad2-cd5b-46ca-b9dc-af94b547353f",
           "width": 0,
-          "x": 740,
-          "y": 534,
+          "x": 721,
+          "y": 540,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1332,8 +1360,8 @@
           "name": "Saw",
           "persistentUuid": "925d6f08-c5e3-4436-87bd-d4a1ae6f186e",
           "width": 86,
-          "x": 255,
-          "y": 146,
+          "x": 216,
+          "y": 202,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -1351,6 +1379,40 @@
           "x": 282,
           "y": 204,
           "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 768,
+          "keepRatio": true,
+          "layer": "Base Base Base Layer",
+          "name": "Floor",
+          "persistentUuid": "ed21811d-c421-4b0d-a6e2-2745b1a7a698",
+          "width": 1281,
+          "x": 0,
+          "y": -45,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 0,
+          "height": 269,
+          "keepRatio": true,
+          "layer": "Base Base Layer",
+          "name": "ToyBag",
+          "persistentUuid": "45d38bd2-d113-426f-996f-a21c2d368edd",
+          "width": 149,
+          "x": 681,
+          "y": 266,
+          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3388,6 +3450,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "ToyBag",
+          "persistentUuid": "c3b96363-a025-45ff-8d03-a092368411ec",
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3830,6 +3893,17 @@
             "characterSize": 20,
             "color": "0;0;0"
           }
+        },
+        {
+          "assetStoreId": "",
+          "height": 5,
+          "name": "Floor",
+          "texture": "assets\\9patch_Wood Background_all_64.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 5,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
         }
       ],
       "objectsFolderStructure": {
@@ -3899,6 +3973,9 @@
             "folderName": "SceneAssets",
             "children": [
               {
+                "objectName": "Floor"
+              },
+              {
                 "objectName": "ToyBag"
               },
               {
@@ -3961,7 +4038,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5470,71 +5546,10 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "FixedToy",
-                    "Conveyor_Belt",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "MettreAutour"
-                  },
-                  "parameters": [
-                    "FixedToy",
-                    "Conveyor_Belt",
-                    "-100",
-                    "5"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "FixedToy",
-                    "Conveyor_Belt",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceVers"
-                  },
-                  "parameters": [
-                    "FixedToy",
-                    "ToyBag",
-                    ".1",
-                    "1"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
