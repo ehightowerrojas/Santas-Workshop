@@ -735,6 +735,222 @@
         "name": "imagesfixed2",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontIdle1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontIdle1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontIdle2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontIdle2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Right/rightWalk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Right\\rightWalk1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Right/rightWalk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Right\\rightWalk2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Right/rightWalk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Right\\rightWalk3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Right/rightWalk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Right\\rightWalk4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Left/leftWalk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Left\\leftWalk1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Left/leftWalk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Left\\leftWalk2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Left/leftWalk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Left\\leftWalk3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Left/leftWalk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Left\\leftWalk4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Back/backWalk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Back\\backWalk1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Back/backWalk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Back\\backWalk2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Back/backWalk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Back\\backWalk3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Back/backWalk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Back\\backWalk4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontWalk1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontWalk1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontWalk2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontWalk2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontWalk3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontWalk3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/WalkingAnimated/Front/frontWalk4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\WalkingAnimated\\Front\\frontWalk4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/buttonCrate.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\buttonCrate.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/cottonCrate.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\cottonCrate.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/screwCrate.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\screwCrate.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/screw.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\screw.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\button.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/cotton.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\cotton.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -802,7 +1018,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.4194339782759076,
+        "zoomFactor": 0.7130377630690424,
         "windowMask": false
       },
       "objectsGroups": [
@@ -866,7 +1082,7 @@
           "layer": "",
           "name": "Nuts_Bolts",
           "persistentUuid": "a01bb145-95ff-4814-832d-19e143366be1",
-          "width": 98,
+          "width": 114,
           "x": 64,
           "y": 276,
           "zOrder": 2,
@@ -878,14 +1094,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 74,
+          "height": 113,
           "keepRatio": true,
           "layer": "",
           "name": "Button",
           "persistentUuid": "933a9a66-5902-4100-9db7-5ab19f974a34",
-          "width": 285,
-          "x": 510,
-          "y": 98,
+          "width": 242,
+          "x": 511,
+          "y": 55,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -900,9 +1116,9 @@
           "layer": "",
           "name": "Cloth",
           "persistentUuid": "6b6b162e-df94-4621-9dee-e6b7d6dc9ca5",
-          "width": 100,
-          "x": 1035,
-          "y": 253,
+          "width": 247,
+          "x": 906,
+          "y": 254,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -1061,31 +1277,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 179,
-          "keepRatio": true,
-          "layer": "Base Base Layer",
-          "name": "MovementInstructions",
-          "persistentUuid": "b8a1b25c-3788-4d9c-95c5-ce1801387a5e",
-          "width": 174,
-          "x": 545,
-          "y": 377,
-          "zOrder": 20,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
           "height": 122,
           "keepRatio": true,
           "layer": "",
           "name": "ToyBag",
           "persistentUuid": "7b43f52a-9e9d-4155-9bb1-80f71344f061",
           "width": 110,
-          "x": 963,
-          "y": 530,
+          "x": 709,
+          "y": 401,
           "zOrder": 21,
           "numberProperties": [],
           "stringProperties": [],
@@ -1100,8 +1299,8 @@
           "name": "Fixed_Toy_Count",
           "persistentUuid": "b1f9cad2-cd5b-46ca-b9dc-af94b547353f",
           "width": 0,
-          "x": 982,
-          "y": 664,
+          "x": 740,
+          "y": 534,
           "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
@@ -1175,6 +1374,15 @@
               "FlashDuration": 0
             },
             {
+              "name": "RemapForTopdown",
+              "type": "BehaviorRemapper::RemapForTopdown",
+              "Up": "w",
+              "Left": "a",
+              "Right": "d",
+              "Down": "s",
+              "Topdown": "TopDownMovement"
+            },
+            {
               "name": "TopDownMovement",
               "type": "TopDownMovementBehavior::TopDownMovementBehavior",
               "acceleration": 900000,
@@ -1192,16 +1400,16 @@
           ],
           "animations": [
             {
-              "name": "",
+              "name": "Idle",
               "useMultipleDirections": false,
               "directions": [
                 {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "looping": true,
+                  "timeBetweenFrames": 0.5,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "TUFF.png",
+                      "image": "customassets\\WalkingAnimated\\Front\\frontIdle1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -1217,20 +1425,680 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
+                            "x": 20,
                             "y": 0
                           },
                           {
-                            "x": 234,
+                            "x": 108,
                             "y": 0
                           },
                           {
-                            "x": 234,
-                            "y": 258
+                            "x": 108,
+                            "y": 120
                           },
                           {
-                            "x": 0,
-                            "y": 258
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Front\\frontIdle2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Right",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Right\\rightWalk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Right\\rightWalk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Right\\rightWalk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Right\\rightWalk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Left",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Left\\leftWalk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Left\\leftWalk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Left\\leftWalk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Left\\leftWalk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Up",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Back\\backWalk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Back\\backWalk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Back\\backWalk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Back\\backWalk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Down",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.15,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Front\\frontWalk1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Front\\frontWalk2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Front\\frontWalk3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\WalkingAnimated\\Front\\frontWalk4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 20,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 0
+                          },
+                          {
+                            "x": 108,
+                            "y": 120
+                          },
+                          {
+                            "x": 20,
+                            "y": 120
                           }
                         ]
                       ]
@@ -1243,11 +2111,11 @@
         },
         {
           "assetStoreId": "",
-          "height": 32,
+          "height": 100,
           "name": "Nuts_Bolts",
-          "texture": "images.jpg",
+          "texture": "customassets\\Items\\screwCrate.png",
           "type": "TiledSpriteObject::TiledSprite",
-          "width": 32,
+          "width": 100,
           "variables": [],
           "effects": [],
           "behaviors": []
@@ -1256,7 +2124,7 @@
           "assetStoreId": "",
           "height": 64,
           "name": "Button",
-          "texture": "81U7rrsM8zL.jpg",
+          "texture": "customassets\\Items\\buttonCrate.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 64,
           "variables": [],
@@ -1267,7 +2135,7 @@
           "assetStoreId": "",
           "height": 32,
           "name": "Cloth",
-          "texture": "8-x-8-Microfiber-Silk-Lens-Cloth-Blue_1200x600_crop_center.webp",
+          "texture": "customassets\\Items\\cottonCrate.png",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 32,
           "variables": [],
@@ -2099,6 +2967,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Bolt",
+          "preScale": 0.7,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2116,7 +2985,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hex-bolt-clipart-design-illustration-free-png2",
+                      "image": "customassets\\Items\\screw.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2132,20 +3001,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 40,
+                            "y": 36
                           },
                           {
-                            "x": 32,
-                            "y": 0
+                            "x": 88,
+                            "y": 36
                           },
                           {
-                            "x": 32,
-                            "y": 32
+                            "x": 88,
+                            "y": 84
                           },
                           {
-                            "x": 0,
-                            "y": 32
+                            "x": 40,
+                            "y": 84
                           }
                         ]
                       ]
@@ -2160,6 +3029,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Button2",
+          "preScale": 0.35,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2177,7 +3047,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pngimg.com - clothes_button_PNG14158",
+                      "image": "customassets\\Items\\button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2193,20 +3063,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 48,
+                            "y": 48
                           },
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 144,
+                            "y": 48
                           },
                           {
-                            "x": 20,
-                            "y": 20
+                            "x": 144,
+                            "y": 120
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 48,
+                            "y": 120
                           }
                         ]
                       ]
@@ -2221,6 +3091,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "Spool",
+          "preScale": 0.15,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2238,7 +3109,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite4",
+                      "image": "customassets\\Items\\cotton.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2254,20 +3125,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 13,
-                            "y": 11
+                            "x": 128,
+                            "y": 144
                           },
                           {
-                            "x": 50,
-                            "y": 11
+                            "x": 384,
+                            "y": 144
                           },
                           {
-                            "x": 50,
-                            "y": 53
+                            "x": 384,
+                            "y": 316
                           },
                           {
-                            "x": 13,
-                            "y": 53
+                            "x": 128,
+                            "y": 316
                           }
                         ]
                       ]
@@ -2671,7 +3542,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "pngimg.com - clothes_button_PNG14158",
+                      "image": "customassets\\Items\\button.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2687,20 +3558,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 48,
+                            "y": 48
                           },
                           {
-                            "x": 20,
-                            "y": 0
+                            "x": 144,
+                            "y": 48
                           },
                           {
-                            "x": 20,
-                            "y": 20
+                            "x": 144,
+                            "y": 120
                           },
                           {
-                            "x": 0,
-                            "y": 20
+                            "x": 48,
+                            "y": 120
                           }
                         ]
                       ]
@@ -2738,7 +3609,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite4",
+                      "image": "customassets\\Items\\cotton.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2754,20 +3625,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 13,
-                            "y": 11
+                            "x": 128,
+                            "y": 144
                           },
                           {
-                            "x": 50,
-                            "y": 11
+                            "x": 384,
+                            "y": 144
                           },
                           {
-                            "x": 50,
-                            "y": 53
+                            "x": 384,
+                            "y": 316
                           },
                           {
-                            "x": 13,
-                            "y": 53
+                            "x": 128,
+                            "y": 316
                           }
                         ]
                       ]
@@ -2805,7 +3676,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "hex-bolt-clipart-design-illustration-free-png2",
+                      "image": "customassets\\Items\\screw.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2821,20 +3692,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 40,
+                            "y": 36
                           },
                           {
-                            "x": 32,
-                            "y": 0
+                            "x": 88,
+                            "y": 36
                           },
                           {
-                            "x": 32,
-                            "y": 32
+                            "x": 88,
+                            "y": 84
                           },
                           {
-                            "x": 0,
-                            "y": 32
+                            "x": 40,
+                            "y": 84
                           }
                         ]
                       ]
@@ -3090,6 +3961,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3256,6 +4128,7 @@
               ]
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -3370,6 +4243,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4115,6 +4989,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Placing + Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4595,6 +5470,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4763,9 +5639,261 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Player Animation",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "w"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Up\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Right\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "s"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Down\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Left\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "AnyKeyPressed"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Idle\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "w"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "d"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Up\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "w"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "a"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Up\""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "Base Base Base Layer",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        },
         {
           "ambientLightColorB": 200,
           "ambientLightColorG": 200,
@@ -4932,6 +6060,10 @@
           "type": "OpacityCapability::OpacityBehavior"
         },
         {
+          "name": "RemapForTopdown",
+          "type": "BehaviorRemapper::RemapForTopdown"
+        },
+        {
           "name": "Resizable",
           "type": "ResizableCapability::ResizableBehavior"
         },
@@ -4956,6 +6088,1391 @@
   ],
   "externalEvents": [],
   "eventsFunctionsExtensions": [
+    {
+      "author": "",
+      "category": "Input",
+      "extensionNamespace": "",
+      "fullName": "Behavior Remapper",
+      "helpPath": "",
+      "iconUrl": "data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz48IURPQ1RZUEUgc3ZnIFBVQkxJQyAiLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4iICJodHRwOi8vd3d3LnczLm9yZy9HcmFwaGljcy9TVkcvMS4xL0RURC9zdmcxMS5kdGQiPjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgdmVyc2lvbj0iMS4xIiBpZD0ibWRpLWFscGhhLXctYm94LW91dGxpbmUiIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0Ij48cGF0aCBkPSJNOSwxN0EyLDIgMCAwLDEgNywxNVY3SDlWMTVIMTFWOEgxM1YxNUgxNVY3SDE3VjE1QTIsMiAwIDAsMSAxNSwxN0g5TTUsM0gxOUEyLDIgMCAwLDEgMjEsNVYxOUEyLDIgMCAwLDEgMTksMjFINUEyLDIgMCAwLDEgMywxOVY1QTIsMiAwIDAsMSA1LDNNNSw1VjE5SDE5VjVINVoiIC8+PC9zdmc+",
+      "name": "BehaviorRemapper",
+      "previewIconUrl": "https://resources.gdevelop-app.com/assets/Icons/alpha-w-box-outline.svg",
+      "shortDescription": "Quickly remap Behavior controls to different keys. ",
+      "version": "1.0.1",
+      "description": [
+        "Make sure to disable default controls unless you want two keys to do the same action.",
+        "",
+        "Actions have two versions. `custom` allow the movement keys to be changed to what ever you would like. `presets` provide a common key-bindings that can be selected from a list.",
+        "",
+        "### Available Presets:",
+        "",
+        "##### `WASD`",
+        "-\tW: Up",
+        "-\tA: Left",
+        "-\tS: Down",
+        "-\tD: Right",
+        "-\tSpace: Jump",
+        "",
+        "##### `ZQSD`",
+        "-\tZ: Up",
+        "-\tQ: Left",
+        "-\tS: Down",
+        "-\tD: Right",
+        "-\tSpace: Jump",
+        "",
+        "##### `Numpad` (Num lock must be disabled)",
+        "-\tNumpad Up: Up",
+        "-\tNumpad Left: Left",
+        "-\tNumpad Down: Down",
+        "-\tNumpad Right: Right",
+        "-\tNumpad Return/Enter: Jump",
+        "",
+        "##### `IJKL`",
+        "-\tI: Up",
+        "-\tJ: Left",
+        "-\tK: Down",
+        "-\tL: Right",
+        "-\tReturn/Enter: Jump",
+        ""
+      ],
+      "origin": {
+        "identifier": "BehaviorRemapper",
+        "name": "gdevelop-extension-store"
+      },
+      "tags": [
+        "remapper",
+        "key",
+        "bindings",
+        "presets",
+        "platformer",
+        "platform",
+        "top-down"
+      ],
+      "authorIds": [
+        "AlZ3D1xkH0QDao7T37VZZUeYNpn1"
+      ],
+      "dependencies": [],
+      "globalVariables": [],
+      "sceneVariables": [],
+      "eventsFunctions": [],
+      "eventsBasedBehaviors": [
+        {
+          "description": "Allows for the controls of a Top-Down behavior to be re-mapped via a single action.",
+          "fullName": "Remap Top-down",
+          "name": "RemapForTopdown",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Up"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateUpKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Topdown"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Topdown"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Topdown"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TopDownMovementBehavior::SimulateDownKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Topdown"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForTopdown",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Remaps Top-Down behavior controls to a custom control scheme.",
+              "fullName": "Remap Top-Down controls to a custom scheme",
+              "functionType": "Action",
+              "name": "SetCustom",
+              "sentence": "Remap controls of _PARAM0_: Up: _PARAM2_, Left: _PARAM3_, Down: _PARAM4_, Right: _PARAM5_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "up"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "right"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "down"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForTopdown",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Up key",
+                  "name": "up",
+                  "type": "key"
+                },
+                {
+                  "description": "Left key",
+                  "name": "left",
+                  "type": "key"
+                },
+                {
+                  "description": "Down key",
+                  "name": "down",
+                  "type": "key"
+                },
+                {
+                  "description": "Right key",
+                  "name": "right",
+                  "type": "key"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Remaps Top-Down behavior controls to a preset control scheme.",
+              "fullName": "Remap Top-Down controls to a preset",
+              "functionType": "Action",
+              "name": "SetPreset",
+              "sentence": "Remap controls of _PARAM0_ to preset _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "QWERTY bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"WASD\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"w\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"a\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"d\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "AZERTY bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"ZQSD\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"z\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"q\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"d\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Numpad bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"Numpad\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadUp\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadLeft\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadDown\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadRight\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "QWERTY player 2 bindings "
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"IJKL\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"j\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"k\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForTopdown::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"l\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForTopdown",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Preset name",
+                  "name": "options",
+                  "supplementaryInformation": "[\"WASD\",\"ZQSD\",\"Numpad\",\"IJKL\"]",
+                  "type": "stringWithSelector"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "w",
+              "type": "String",
+              "label": "Up key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Up"
+            },
+            {
+              "value": "a",
+              "type": "String",
+              "label": "Left key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Left"
+            },
+            {
+              "value": "d",
+              "type": "String",
+              "label": "Right key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Right"
+            },
+            {
+              "value": "s",
+              "type": "String",
+              "label": "Down key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Down"
+            },
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "TopDownMovementBehavior::TopDownMovementBehavior"
+              ],
+              "name": "Topdown"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        },
+        {
+          "description": "Allows for the controls of a platformer behavior to be re-mapped via a single action.",
+          "fullName": "Remap Platformer controls",
+          "name": "RemapForPlatformer",
+          "objectType": "",
+          "eventsFunctions": [
+            {
+              "fullName": "",
+              "functionType": "Action",
+              "name": "doStepPreEvents",
+              "sentence": "",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Up"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateUpKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLadderKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateLeftKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateRightKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateDownKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateReleaseLadderKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Jump"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Platformer"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForPlatformer",
+                  "type": "behavior"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Remaps Platformer behavior controls to a custom control scheme.",
+              "fullName": "Remap Platformer controls to a custom scheme",
+              "functionType": "Action",
+              "name": "SetCustom",
+              "sentence": "Remap controls of _PARAM0_: Up: _PARAM2_, Left: _PARAM3_, Down: _PARAM4_, Right: _PARAM5_, Jump: _PARAM6_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "up"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "left"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "right"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "down"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyJump"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "jump"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForPlatformer",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Up key",
+                  "name": "up",
+                  "type": "key"
+                },
+                {
+                  "description": "Left key",
+                  "name": "left",
+                  "type": "key"
+                },
+                {
+                  "description": "Down key",
+                  "name": "down",
+                  "type": "key"
+                },
+                {
+                  "description": "Right key",
+                  "name": "right",
+                  "type": "key"
+                },
+                {
+                  "description": "Jump key",
+                  "name": "jump",
+                  "type": "key"
+                }
+              ],
+              "objectGroups": []
+            },
+            {
+              "description": "Remaps Platformer behavior controls to a preset control scheme.",
+              "fullName": "Remap Platformer controls to a preset",
+              "functionType": "Action",
+              "name": "SetPreset",
+              "sentence": "Remap controls of _PARAM0_ to preset _PARAM2_",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "QWERTY bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"WASD\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"w\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"a\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"d\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyJump"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"Space\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "AZERTY bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"ZQSD\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"z\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"q\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"s\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"d\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyJump"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"Space\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "Numpad bindings"
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"Numpad\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadUp\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadLeft\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadDown\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadRight\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyJump"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"NumpadReturn\""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Comment",
+                  "color": {
+                    "b": 109,
+                    "g": 230,
+                    "r": 255,
+                    "textB": 0,
+                    "textG": 0,
+                    "textR": 0
+                  },
+                  "comment": "QWERTY player 2 bindings "
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "StrEqual"
+                      },
+                      "parameters": [
+                        "options",
+                        "=",
+                        "\"IJKL\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyUp"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"i\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyLeft"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"j\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyDown"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"k\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyRight"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"l\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BehaviorRemapper::RemapForPlatformer::SetPropertyJump"
+                      },
+                      "parameters": [
+                        "Object",
+                        "Behavior",
+                        "=",
+                        "\"Return\""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": [
+                {
+                  "description": "Object",
+                  "name": "Object",
+                  "type": "object"
+                },
+                {
+                  "description": "Behavior",
+                  "name": "Behavior",
+                  "supplementaryInformation": "BehaviorRemapper::RemapForPlatformer",
+                  "type": "behavior"
+                },
+                {
+                  "description": "Preset name",
+                  "name": "options",
+                  "supplementaryInformation": "[\"WASD\",\"ZQSD\",\"Numpad\",\"IJKL\"]",
+                  "type": "stringWithSelector"
+                }
+              ],
+              "objectGroups": []
+            }
+          ],
+          "propertyDescriptors": [
+            {
+              "value": "",
+              "type": "String",
+              "label": "Up key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Up"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Left key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Left"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Down key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Down"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Right key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Right"
+            },
+            {
+              "value": "",
+              "type": "String",
+              "label": "Jump key",
+              "description": "",
+              "group": "",
+              "extraInformation": [],
+              "name": "Jump"
+            },
+            {
+              "value": "",
+              "type": "Behavior",
+              "label": "",
+              "description": "",
+              "group": "",
+              "extraInformation": [
+                "PlatformBehavior::PlatformerObjectBehavior"
+              ],
+              "name": "Platformer"
+            }
+          ],
+          "sharedPropertyDescriptors": []
+        }
+      ],
+      "eventsBasedObjects": []
+    },
     {
       "author": "@4ian, Entropy, VegeTato",
       "category": "Visual effect",
