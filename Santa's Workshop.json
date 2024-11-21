@@ -1131,6 +1131,52 @@
         "name": "customassets\\Items\\brokenBear(small).png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Invisible_Saw_Barrier_B.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Invisible_Saw_Barrier_B.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Normal_State.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Normal_State",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Normal_State2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Normal_State2",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Normal_State.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "assets\\Normal_State.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "MC Story Mode Crafting Sound Effect(download in description).mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "MC Story Mode Crafting Sound Effect(download in description).mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1511,8 +1557,8 @@
           "name": "CraftSuccess",
           "persistentUuid": "8da226c0-8054-4c05-af39-6f20aeffa65c",
           "width": 0,
-          "x": 282,
-          "y": 204,
+          "x": 488,
+          "y": 130,
           "zOrder": 25,
           "numberProperties": [],
           "stringProperties": [],
@@ -2658,7 +2704,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "c326b49fa400bfc5f51a7c8d69d9d2b228370e9244ab621f919f9a5f0943659d",
           "name": "BrokenToy",
-          "preScale": 4.5,
+          "preScale": 0.5,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -2675,7 +2721,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Bun_Spinning_1.png",
+                      "image": "customassets\\Items\\brokenBear(small).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -2691,20 +2737,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 3,
-                            "y": 0
+                            "x": 12,
+                            "y": 4
                           },
                           {
-                            "x": 13,
-                            "y": 0
+                            "x": 116,
+                            "y": 4
                           },
                           {
-                            "x": 13,
-                            "y": 16
+                            "x": 116,
+                            "y": 124
                           },
                           {
-                            "x": 3,
-                            "y": 16
+                            "x": 12,
+                            "y": 124
                           }
                         ]
                       ]
@@ -3350,7 +3396,7 @@
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
           "name": "BrokenToy_Small",
-          "preScale": 0.05,
+          "preScale": 0.35,
           "type": "Sprite",
           "updateIfNotVisible": false,
           "variables": [],
@@ -3946,7 +3992,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation1.png",
+                      "image": "Normal_State2",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3990,7 +4036,7 @@
               "directions": [
                 {
                   "looping": false,
-                  "timeBetweenFrames": 0.08,
+                  "timeBetweenFrames": 0.1,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
@@ -4375,8 +4421,8 @@
           "characterSize": 20,
           "color": {
             "b": 0,
-            "g": 0,
-            "r": 0
+            "g": 231,
+            "r": 2
           },
           "content": {
             "bold": false,
@@ -4397,7 +4443,7 @@
             "textAlignment": "left",
             "verticalTextAlignment": "top",
             "characterSize": 20,
-            "color": "0;0;0"
+            "color": "2;231;0"
           }
         },
         {
@@ -5801,6 +5847,17 @@
                     },
                     {
                       "type": {
+                        "value": "ResizableCapability::ResizableBehavior::SetWidth"
+                      },
+                      "parameters": [
+                        "Toy_Craft",
+                        "Resizable",
+                        "=",
+                        "600"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "MontreSouris"
                       },
                       "parameters": [
@@ -5986,10 +6043,22 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "MC Story Mode Crafting Sound Effect(download in description).mp3",
+                    "",
+                    "10",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "2"
+                    "2.3"
                   ]
                 },
                 {
