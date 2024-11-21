@@ -5948,56 +5948,11 @@
                     "",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Bolt_Craft",
-                    "Toy_Craft",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Spool_Craft",
-                    "Toy_Craft",
-                    "",
-                    "",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Button_Craft",
-                    "Toy_Craft",
-                    "",
-                    "",
-                    ""
-                  ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Montre"
-                  },
-                  "parameters": [
-                    "CraftSuccess",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
@@ -6005,87 +5960,156 @@
                     "TopDownMovement",
                     ""
                   ]
-                },
+                }
+              ],
+              "events": [
                 {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "Button_Craft"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "Bolt_Craft"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "Spool_Craft"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Toy_Craft",
-                    "Animation",
-                    "=",
-                    "\"Fix\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PlaySound"
-                  },
-                  "parameters": [
-                    "",
-                    "MC Story Mode Crafting Sound Effect(download in description).mp3",
-                    "",
-                    "10",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "2.3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "CacheSouris"
-                  },
-                  "parameters": [
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Crafting UI",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ActivateBehavior"
-                  },
-                  "parameters": [
-                    "Player",
-                    "TopDownMovement",
-                    "yes"
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Bolt_Craft",
+                        "Toy_Craft",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Spool_Craft",
+                        "Toy_Craft",
+                        "",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Button_Craft",
+                        "Toy_Craft",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "CraftSuccess",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "Button_Craft"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "Bolt_Craft"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "Spool_Craft"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Toy_Craft",
+                        "Animation",
+                        "=",
+                        "\"Fix\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "MC Story Mode Crafting Sound Effect(download in description).mp3",
+                            "",
+                            "10",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "2.3"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CacheSouris"
+                          },
+                          "parameters": [
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Crafting UI",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ActivateBehavior"
+                          },
+                          "parameters": [
+                            "Player",
+                            "TopDownMovement",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    }
                   ]
                 }
               ]
