@@ -996,6 +996,141 @@
         "name": "assets\\9patch_Wood Background_all_64.png",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/workstation.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\workstation.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/bear(broken).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\bear(broken).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation1.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation1.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation2.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation3.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation3.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation4.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation4.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation5.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation5.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation6.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation6.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation7.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation7.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation8.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation8.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation9.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation9.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation10.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation10.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/BearFixAnimation/bearAnimation11.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\BearFixAnimation\\bearAnimation11.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/bear(fixed).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\bear(fixed).png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "customassets/Items/brokenBear(small).png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\brokenBear(small).png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3232,7 +3367,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "34230700232069x20042066.jpg",
+                      "image": "customassets\\Items\\brokenBear(small).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3248,20 +3383,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 12,
+                            "y": 4
                           },
                           {
-                            "x": 800,
-                            "y": 0
+                            "x": 116,
+                            "y": 4
                           },
                           {
-                            "x": 800,
-                            "y": 800
+                            "x": 116,
+                            "y": 124
                           },
                           {
-                            "x": 0,
-                            "y": 800
+                            "x": 12,
+                            "y": 124
                           }
                         ]
                       ]
@@ -3293,7 +3428,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "imagesfixed.jpg",
+                      "image": "customassets\\Items\\bear(fixed).png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3309,20 +3444,20 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 0,
-                            "y": 0
+                            "x": 156,
+                            "y": 12
                           },
                           {
-                            "x": 225,
-                            "y": 0
+                            "x": 356,
+                            "y": 12
                           },
                           {
-                            "x": 225,
-                            "y": 225
+                            "x": 356,
+                            "y": 236
                           },
                           {
-                            "x": 0,
-                            "y": 225
+                            "x": 156,
+                            "y": 236
                           }
                         ]
                       ]
@@ -3568,8 +3703,8 @@
           "leftMargin": 0,
           "name": "CraftingPanel",
           "rightMargin": 0,
-          "texture": "CraftingPanel",
-          "tiled": true,
+          "texture": "customassets\\Items\\workstation.png",
+          "tiled": false,
           "topMargin": 0,
           "type": "PanelSpriteObject::PanelSprite",
           "width": 32,
@@ -3801,7 +3936,7 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "imagesfixed",
+              "name": "Normal_State",
               "useMultipleDirections": false,
               "directions": [
                 {
@@ -3811,7 +3946,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "imagesfixed2",
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation1.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3827,20 +3962,392 @@
                       "customCollisionMask": [
                         [
                           {
-                            "x": 12,
-                            "y": 4
+                            "x": 156,
+                            "y": 12
                           },
                           {
-                            "x": 188,
-                            "y": 4
+                            "x": 344,
+                            "y": 12
                           },
                           {
-                            "x": 188,
-                            "y": 196
+                            "x": 344,
+                            "y": 236
                           },
                           {
-                            "x": 12,
-                            "y": 196
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Fix",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation8.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation9.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation10.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\BearFixAnimation\\bearAnimation11.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 156,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 12
+                          },
+                          {
+                            "x": 344,
+                            "y": 236
+                          },
+                          {
+                            "x": 156,
+                            "y": 236
                           }
                         ]
                       ]
@@ -4037,6 +4544,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5064,7 +5572,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Placing + Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5444,10 +5951,45 @@
                 },
                 {
                   "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Button_Craft"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Bolt_Craft"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Spool_Craft"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Toy_Craft",
+                    "Animation",
+                    "=",
+                    "\"Fix\""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
-                    "1"
+                    "2"
                   ]
                 },
                 {
@@ -5460,21 +6002,21 @@
                 },
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Crafting UI",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "ActivateBehavior"
                   },
                   "parameters": [
                     "Player",
                     "TopDownMovement",
                     "yes"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Crafting UI",
-                    ""
                   ]
                 }
               ]
@@ -5545,7 +6087,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
