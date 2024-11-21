@@ -1177,6 +1177,16 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Achievement Sound Effect2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Achievement Sound Effect2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -6047,10 +6057,10 @@
                   },
                   "parameters": [
                     "",
-                    "MC Story Mode Crafting Sound Effect(download in description).mp3",
+                    "Achievement Sound Effect2.mp3",
                     "",
                     "10",
-                    ""
+                    "1"
                   ]
                 },
                 {
