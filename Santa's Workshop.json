@@ -2659,7 +2659,7 @@
           "persistentUuid": "e7153047-d89b-46a5-8136-523c374ba6a6",
           "width": 1216,
           "x": 32,
-          "y": 384,
+          "y": 352,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -2807,7 +2807,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Level Design:\n\n- Evan Hightower-Rojas: Level layout, saw & conveyor belt mechanics, gameplay loop\n\n- Joshua Mayol: Timer & points, picking up items, crafting ui & mechanics, saw collision\n",
+          "string": "Level Design:\n\n- Evan Hightower-Rojas: Level layout, saw & conveyor belt mechanics, gameplay loop\n\n- Joshua Mayol: Timer & points, picking up items, crafting ui & mechanics, saw collision\n\n- Damon Pham: Storyboard\n",
           "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
           "textAlignment": "left",
           "characterSize": 25,
@@ -2830,7 +2830,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Level Design:\n\n- Evan Hightower-Rojas: Level layout, saw & conveyor belt mechanics, gameplay loop\n\n- Joshua Mayol: Timer & points, picking up items, crafting ui & mechanics, saw collision\n",
+            "text": "Level Design:\n\n- Evan Hightower-Rojas: Level layout, saw & conveyor belt mechanics, gameplay loop\n\n- Joshua Mayol: Timer & points, picking up items, crafting ui & mechanics, saw collision\n\n- Damon Pham: Storyboard\n",
             "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
             "textAlignment": "left",
             "verticalTextAlignment": "top",
@@ -3531,7 +3531,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5290357402156858,
+        "zoomFactor": 0.7130377630690431,
         "windowMask": false
       },
       "objectsGroups": [
@@ -9053,7 +9053,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -9061,7 +9061,7 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
+        "snap": false,
         "zoomFactor": 0.546875,
         "windowMask": false
       },
