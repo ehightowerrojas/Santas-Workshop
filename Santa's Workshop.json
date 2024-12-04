@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 218,
+    "build": 219,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -69,7 +69,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "TUFF.png",
         "kind": "image",
         "metadata": "",
@@ -78,7 +77,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "images.jpg",
         "kind": "image",
         "metadata": "",
@@ -87,7 +85,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "bu2041bk-1-main-isb.webp",
         "kind": "image",
         "metadata": "",
@@ -96,7 +93,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "81U7rrsM8zL.jpg",
         "kind": "image",
         "metadata": "",
@@ -105,7 +101,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "8-x-8-Microfiber-Silk-Lens-Cloth-Blue_1200x600_crop_center.webp",
         "kind": "image",
         "metadata": "",
@@ -114,7 +109,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "images2.jpg",
         "kind": "image",
         "metadata": "",
@@ -123,7 +117,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "34230700232069x20042065.jpg",
         "kind": "image",
         "metadata": "",
@@ -132,7 +125,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -141,7 +133,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "59281_W3.jpg",
         "kind": "image",
         "metadata": "",
@@ -150,7 +141,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Crafting_Table_JE4_BE3.webp",
         "kind": "image",
         "metadata": "",
@@ -159,7 +149,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Invisible_Saw_barrier_A.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -168,7 +157,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Invisible_Saw_Barrier_B.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -177,7 +165,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "images3.jpg",
         "kind": "image",
         "metadata": "",
@@ -186,7 +173,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewTiledSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -195,7 +181,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -204,7 +189,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -213,7 +197,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_1.png",
         "kind": "image",
         "metadata": "",
@@ -226,7 +209,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_2.png",
         "kind": "image",
         "metadata": "",
@@ -239,7 +221,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_3.png",
         "kind": "image",
         "metadata": "",
@@ -252,7 +233,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_4.png",
         "kind": "image",
         "metadata": "",
@@ -265,7 +245,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_5.png",
         "kind": "image",
         "metadata": "",
@@ -278,7 +257,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_6.png",
         "kind": "image",
         "metadata": "",
@@ -291,7 +269,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_7.png",
         "kind": "image",
         "metadata": "",
@@ -304,7 +281,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bun_Spinning_8.png",
         "kind": "image",
         "metadata": "",
@@ -317,7 +293,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/9patch_Wood Background_all_64.png",
         "kind": "image",
         "metadata": "",
@@ -330,7 +305,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_Off.png",
         "kind": "image",
         "metadata": "",
@@ -343,7 +317,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_1.png",
         "kind": "image",
         "metadata": "",
@@ -356,7 +329,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_2.png",
         "kind": "image",
         "metadata": "",
@@ -369,7 +341,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_3.png",
         "kind": "image",
         "metadata": "",
@@ -382,7 +353,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_4.png",
         "kind": "image",
         "metadata": "",
@@ -395,7 +365,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_5.png",
         "kind": "image",
         "metadata": "",
@@ -408,7 +377,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_6.png",
         "kind": "image",
         "metadata": "",
@@ -421,7 +389,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_7.png",
         "kind": "image",
         "metadata": "",
@@ -434,7 +401,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Saw_On_8.png",
         "kind": "image",
         "metadata": "",
@@ -447,7 +413,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -456,7 +421,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -465,7 +429,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -474,7 +437,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -483,7 +445,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -492,7 +453,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -501,7 +461,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -510,7 +469,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -530,7 +488,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "hex-bolt-clipart-design-illustration-free-png.webp",
         "kind": "image",
         "metadata": "",
@@ -539,7 +496,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "pngimg.com - clothes_button_PNG14157.png",
         "kind": "image",
         "metadata": "",
@@ -548,7 +504,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "sewing-thread-with-needle-722vOl9-600.jpg",
         "kind": "image",
         "metadata": "",
@@ -557,7 +512,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/hex-bolt-clipart-design-illustration-free-png.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -566,7 +520,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/hex-bolt-clipart-design-illustration-free-png2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -575,7 +528,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/pngimg.com - clothes_button_PNG14157.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -584,7 +536,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/pngimg.com - clothes_button_PNG14158.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -593,7 +544,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "pngtree-a-spool-of-thread-png-image_11518872.png",
         "kind": "image",
         "metadata": "",
@@ -602,7 +552,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite4.png\"}",
@@ -611,7 +560,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "462549574_511895908341090_2126590302251682711_n.jpg",
         "kind": "image",
         "metadata": "",
@@ -620,7 +568,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "images4.jpg",
         "kind": "image",
         "metadata": "",
@@ -629,7 +576,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "59281_W4.jpg",
         "kind": "image",
         "metadata": "",
@@ -638,7 +584,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "34230700232069x20042066.jpg",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"34230700232069x20042066.jpg\",\"extension\":\".png\"}",
@@ -647,7 +592,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "imagesfixed.jpg",
         "kind": "image",
         "metadata": "",
@@ -656,7 +600,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "maxresdefault.jpg",
         "kind": "image",
         "metadata": "",
@@ -665,7 +608,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "maxresdefault2.jpg",
         "kind": "image",
         "metadata": "",
@@ -674,7 +616,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "maxresdefault3.jpg",
         "kind": "image",
         "metadata": "",
@@ -683,7 +624,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "images.png",
         "kind": "image",
         "metadata": "",
@@ -692,7 +632,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "maxresdefault4.jpg",
         "kind": "image",
         "metadata": "",
@@ -701,7 +640,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "Santas-Toy-Bag.jpg",
         "kind": "image",
         "metadata": "",
@@ -710,7 +648,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/CraftingPanel.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{},\"localFilePath\":\"assets/CraftingPanel.png\"}",
@@ -719,7 +656,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/imagesfixed.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -728,7 +664,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/imagesfixed2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -737,7 +672,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontIdle1.png",
         "kind": "image",
         "metadata": "",
@@ -746,7 +680,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontIdle2.png",
         "kind": "image",
         "metadata": "",
@@ -755,7 +688,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Right/rightWalk1.png",
         "kind": "image",
         "metadata": "",
@@ -764,7 +696,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Right/rightWalk2.png",
         "kind": "image",
         "metadata": "",
@@ -773,7 +704,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Right/rightWalk3.png",
         "kind": "image",
         "metadata": "",
@@ -782,7 +712,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Right/rightWalk4.png",
         "kind": "image",
         "metadata": "",
@@ -791,7 +720,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Left/leftWalk1.png",
         "kind": "image",
         "metadata": "",
@@ -800,7 +728,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Left/leftWalk2.png",
         "kind": "image",
         "metadata": "",
@@ -809,7 +736,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Left/leftWalk3.png",
         "kind": "image",
         "metadata": "",
@@ -818,7 +744,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Left/leftWalk4.png",
         "kind": "image",
         "metadata": "",
@@ -827,7 +752,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Back/backWalk1.png",
         "kind": "image",
         "metadata": "",
@@ -836,7 +760,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Back/backWalk2.png",
         "kind": "image",
         "metadata": "",
@@ -845,7 +768,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Back/backWalk3.png",
         "kind": "image",
         "metadata": "",
@@ -854,7 +776,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Back/backWalk4.png",
         "kind": "image",
         "metadata": "",
@@ -863,7 +784,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontWalk1.png",
         "kind": "image",
         "metadata": "",
@@ -872,7 +792,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontWalk2.png",
         "kind": "image",
         "metadata": "",
@@ -881,7 +800,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontWalk3.png",
         "kind": "image",
         "metadata": "",
@@ -890,7 +808,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/WalkingAnimated/Front/frontWalk4.png",
         "kind": "image",
         "metadata": "",
@@ -899,7 +816,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/buttonCrate.png",
         "kind": "image",
         "metadata": "",
@@ -908,7 +824,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/cottonCrate.png",
         "kind": "image",
         "metadata": "",
@@ -917,7 +832,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/screwCrate.png",
         "kind": "image",
         "metadata": "",
@@ -926,7 +840,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/screw.png",
         "kind": "image",
         "metadata": "",
@@ -935,7 +848,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/button.png",
         "kind": "image",
         "metadata": "",
@@ -944,7 +856,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/cotton.png",
         "kind": "image",
         "metadata": "",
@@ -953,7 +864,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "pixel_art_study___tiles__1_by_misfitoki_deqc368-fullview.jpg",
         "kind": "image",
         "metadata": "",
@@ -962,7 +872,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "e4a4c10c8dca256cd69abd2854c7ec9a.jpg",
         "kind": "image",
         "metadata": "",
@@ -971,7 +880,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "h7jxd8q0yd591.png",
         "kind": "image",
         "metadata": "",
@@ -980,7 +888,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "h7jxd8q0yd591resize.png",
         "kind": "image",
         "metadata": "",
@@ -989,7 +896,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/9patch_Wood Background_all_64.png",
         "kind": "image",
         "metadata": "",
@@ -998,7 +904,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/workstation.png",
         "kind": "image",
         "metadata": "",
@@ -1007,7 +912,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/bear(broken).png",
         "kind": "image",
         "metadata": "",
@@ -1016,7 +920,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation1.png",
         "kind": "image",
         "metadata": "",
@@ -1025,7 +928,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation2.png",
         "kind": "image",
         "metadata": "",
@@ -1034,7 +936,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation3.png",
         "kind": "image",
         "metadata": "",
@@ -1043,7 +944,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation4.png",
         "kind": "image",
         "metadata": "",
@@ -1052,7 +952,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation5.png",
         "kind": "image",
         "metadata": "",
@@ -1061,7 +960,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation6.png",
         "kind": "image",
         "metadata": "",
@@ -1070,7 +968,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation7.png",
         "kind": "image",
         "metadata": "",
@@ -1079,7 +976,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation8.png",
         "kind": "image",
         "metadata": "",
@@ -1088,7 +984,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation9.png",
         "kind": "image",
         "metadata": "",
@@ -1097,7 +992,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation10.png",
         "kind": "image",
         "metadata": "",
@@ -1106,7 +1000,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/BearFixAnimation/bearAnimation11.png",
         "kind": "image",
         "metadata": "",
@@ -1115,7 +1008,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/bear(fixed).png",
         "kind": "image",
         "metadata": "",
@@ -1124,7 +1016,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/brokenBear(small).png",
         "kind": "image",
         "metadata": "",
@@ -1133,7 +1024,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Invisible_Saw_Barrier_B.png",
         "kind": "image",
         "metadata": "",
@@ -1142,7 +1032,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal_State.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1151,7 +1040,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal_State2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1160,7 +1048,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Normal_State.png",
         "kind": "image",
         "metadata": "",
@@ -1189,7 +1076,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewTiledSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1198,7 +1084,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel-border (1).png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Default-panel-border (1).png\",\"extension\":\".png\",\"pskl\":{}}",
@@ -1211,7 +1096,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewTiledSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1220,7 +1104,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Default-panel (1)3.png",
         "kind": "image",
         "metadata": "",
@@ -1233,7 +1116,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Black Square Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -1246,7 +1128,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Black Square Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -1259,7 +1140,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Black Square Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
@@ -1283,7 +1163,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Transparent Button With White Blue Border_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -1296,7 +1175,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Transparent Button With White Blue Border_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -1309,7 +1187,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Transparent Button With White Blue Border_Pressed.png",
         "kind": "image",
         "metadata": "",
@@ -1333,7 +1210,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "performancescreen.png",
         "kind": "image",
         "metadata": "",
@@ -1342,7 +1218,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "performancescreen2.png",
         "kind": "image",
         "metadata": "",
@@ -1351,7 +1226,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/CraftingTable.png",
         "kind": "image",
         "metadata": "",
@@ -1360,7 +1234,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/CandyCane.png",
         "kind": "image",
         "metadata": "",
@@ -1369,7 +1242,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/ChristmasTree.png",
         "kind": "image",
         "metadata": "",
@@ -1378,7 +1250,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/StockingRed.png",
         "kind": "image",
         "metadata": "",
@@ -1387,7 +1258,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/StockingGreen.png",
         "kind": "image",
         "metadata": "",
@@ -1396,11 +1266,26 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "customassets/Items/CandyCaneAngle.png",
         "kind": "image",
         "metadata": "",
         "name": "customassets\\Items\\CandyCaneAngle.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "customassets/Items/SWTitlescreen.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\SWTitlescreen.png",
+        "smoothed": true,
+        "userAdded": false
+      },
+      {
+        "file": "assets/NewTiledSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "NewTiledSprite4",
         "smoothed": true,
         "userAdded": false
       }
@@ -1447,6 +1332,11 @@
       "name": "IsVulnerable",
       "type": "boolean",
       "value": false
+    },
+    {
+      "name": "Score",
+      "type": "number",
+      "value": 0
     }
   ],
   "layouts": [
@@ -1470,45 +1360,12 @@
         "gridColor": 10401023,
         "gridAlpha": 0.15,
         "snap": true,
-        "zoomFactor": 0.546875,
+        "zoomFactor": 0.6244537826600003,
         "windowMask": false
       },
       "objectsGroups": [],
       "variables": [],
       "instances": [
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 961,
-          "keepRatio": true,
-          "layer": "",
-          "name": "NewTiledSprite",
-          "persistentUuid": "405b8486-afa3-47ad-bbae-33bd7f45be68",
-          "width": 1506,
-          "x": -98,
-          "y": -96,
-          "zOrder": 1,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Title",
-          "persistentUuid": "aac5907c-c5b0-455c-a3b2-4e8c4a1e1f7e",
-          "width": 0,
-          "x": 272,
-          "y": 128,
-          "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
         {
           "angle": 0,
           "customSize": true,
@@ -1519,8 +1376,8 @@
           "name": "PlayText",
           "persistentUuid": "c5610af0-f289-4d06-b089-d41df7e82cbb",
           "width": 160,
-          "x": 544,
-          "y": 320,
+          "x": 992,
+          "y": 256,
           "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
@@ -1535,9 +1392,9 @@
           "layer": "",
           "name": "CreditsText",
           "persistentUuid": "5ab0ab9e-07c0-4954-9f98-4dc83b2ce290",
-          "width": 211,
-          "x": 512,
-          "y": 544,
+          "width": 288,
+          "x": 928,
+          "y": 448,
           "zOrder": 11,
           "numberProperties": [],
           "stringProperties": [],
@@ -1552,9 +1409,9 @@
           "layer": "",
           "name": "PlayButton",
           "persistentUuid": "7f3fdccc-99ef-4562-9175-6e2b57be113d",
-          "width": 544,
-          "x": 352,
-          "y": 288,
+          "width": 288,
+          "x": 928,
+          "y": 224,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1569,10 +1426,27 @@
           "layer": "",
           "name": "CreditsButton",
           "persistentUuid": "d008dbe3-218b-45ef-904b-d1f5f147e957",
-          "width": 544,
-          "x": 352,
-          "y": 512,
+          "width": 288,
+          "x": 928,
+          "y": 416,
           "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 736,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "ad0f3a56-a9d8-43d7-88a8-7dd625c3cd90",
+          "width": 1280,
+          "x": 0,
+          "y": 0,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1747,6 +1621,66 @@
           "variables": [],
           "effects": [],
           "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\SWTitlescreen.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 3840,
+                            "y": 0
+                          },
+                          {
+                            "x": 3840,
+                            "y": 2160
+                          },
+                          {
+                            "x": 0,
+                            "y": 2160
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -1769,6 +1703,9 @@
           },
           {
             "objectName": "CreditsButton"
+          },
+          {
+            "objectName": "NewSprite"
           }
         ]
       },
@@ -1865,7 +1802,7 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "MouseButtonPressed"
+                        "value": "MouseButtonReleased"
                       },
                       "parameters": [
                         "",
@@ -1960,7 +1897,7 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "MouseButtonPressed"
+                        "value": "MouseButtonReleased"
                       },
                       "parameters": [
                         "",
@@ -2035,8 +1972,16 @@
       ],
       "behaviorsSharedData": [
         {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
           "name": "Effect",
           "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
         },
         {
           "name": "Opacity",
@@ -2086,14 +2031,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 948,
+          "height": 736,
           "keepRatio": true,
           "layer": "",
           "name": "NewTiledSprite",
           "persistentUuid": "c3da235e-4432-454e-b08a-e2fb99911a3a",
-          "width": 1433,
-          "x": -64,
-          "y": -91,
+          "width": 1280,
+          "x": 0,
+          "y": 0,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -2408,7 +2353,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Play Button",
+          "name": "Continue Button",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -2472,7 +2417,7 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "MouseButtonPressed"
+                        "value": "MouseButtonReleased"
                       },
                       "parameters": [
                         "",
@@ -2487,7 +2432,7 @@
                       },
                       "parameters": [
                         "",
-                        "\"Level 1\"",
+                        "\"Preamble\"",
                         ""
                       ]
                     }
@@ -2503,7 +2448,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "name": "Play Button",
+          "name": "Back Button",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -2567,7 +2512,7 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "MouseButtonPressed"
+                        "value": "MouseButtonReleased"
                       },
                       "parameters": [
                         "",
@@ -2724,26 +2669,9 @@
           "name": "BackButton",
           "persistentUuid": "3c306181-992b-4c49-aec1-caace675650d",
           "width": 0,
-          "x": 289,
-          "y": 594,
+          "x": 541,
+          "y": 573,
           "zOrder": 2,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 48,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "ContinueButton",
-          "persistentUuid": "26e467c6-2795-49eb-9d78-9ed9b5c89f55",
-          "width": 240,
-          "x": 666,
-          "y": 592,
-          "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3033,7 +2961,7 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "value": "MouseButtonReleased"
                   },
                   "parameters": [
                     "",
@@ -3090,7 +3018,7 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "MouseButtonPressed"
+                    "value": "MouseButtonReleased"
                   },
                   "parameters": [
                     "",
@@ -3193,6 +3121,402 @@
       ]
     },
     {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "Preamble",
+      "name": "Preamble",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 740,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewTiledSprite",
+          "persistentUuid": "8dacba80-ad5f-448a-bddf-9f83f9eef14d",
+          "width": 1288,
+          "x": -4,
+          "y": -6,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 337,
+          "keepRatio": true,
+          "layer": "",
+          "name": "PreambleTxt",
+          "persistentUuid": "6b3d519c-f3cb-447a-aef3-45588d5d0b66",
+          "width": 1152,
+          "x": 64,
+          "y": 128,
+          "zOrder": 2,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ContinueButton",
+          "persistentUuid": "96e8bd23-9540-4d57-b3f2-24eb8ad305f3",
+          "width": 608,
+          "x": 320,
+          "y": 512,
+          "zOrder": 3,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 31,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ButtonTxt",
+          "persistentUuid": "6e45e834-c85b-4b5d-9667-21d503d6a37f",
+          "width": 608,
+          "x": 320,
+          "y": 544,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "height": 32,
+          "name": "NewTiledSprite",
+          "texture": "NewTiledSprite4",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 32,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "PreambleTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "There were so many kids on the nice list this year that North Pole factories cannot keep up!\n\nSanta needs your help to fix toys for all the good children.\n\nWill you be the holiday hero?",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 35,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "There were so many kids on the nice list this year that North Pole factories cannot keep up!\n\nSanta needs your help to fix toys for all the good children.\n\nWill you be the holiday hero?",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 35,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "bfabac7f4701989359b7d48490f61e5acae297f240f3d607cc8300be39e0c68a",
+          "bottomMargin": 12,
+          "height": 48,
+          "leftMargin": 12,
+          "name": "ContinueButton",
+          "rightMargin": 12,
+          "texture": "Default-panel (1).png",
+          "tiled": false,
+          "topMargin": 12,
+          "type": "PanelSpriteObject::PanelSprite",
+          "width": 48,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "ButtonTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Save Christmas",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 30,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Save Christmas",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 30,
+            "color": "0;0;0"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewTiledSprite"
+          },
+          {
+            "objectName": "PreambleTxt"
+          },
+          {
+            "objectName": "ContinueButton"
+          },
+          {
+            "objectName": "ButtonTxt"
+          }
+        ]
+      },
+      "events": [
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Continue Button",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ContinueButton",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::SetColor"
+                  },
+                  "parameters": [
+                    "ContinueButton",
+                    "\"255;255;255\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "SourisSurObjet"
+                  },
+                  "parameters": [
+                    "ContinueButton",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteObject::SetColor"
+                  },
+                  "parameters": [
+                    "ContinueButton",
+                    "\"155;155;155\""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "MouseButtonReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Level 1\"",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
       "b": 102,
       "disableInputWhenNotFocused": true,
       "mangledName": "Level_321",
@@ -3212,7 +3536,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.6244537826600014,
+        "zoomFactor": 0.6455105703311509,
         "windowMask": false
       },
       "objectsGroups": [
@@ -3244,7 +3568,7 @@
           "value": false
         },
         {
-          "name": "Variable",
+          "name": "Score1",
           "type": "number",
           "value": 0
         }
@@ -3473,22 +3797,6 @@
           "height": 0,
           "keepRatio": true,
           "layer": "",
-          "name": "Fixed_Toy_Count",
-          "persistentUuid": "b1f9cad2-cd5b-46ca-b9dc-af94b547353f",
-          "width": 0,
-          "x": 721,
-          "y": 540,
-          "zOrder": 22,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
           "name": "BrokenToy",
           "persistentUuid": "df098c5d-a41e-40b9-a63c-c29746198072",
           "width": 0,
@@ -3576,26 +3884,9 @@
           "name": "Performance_card",
           "persistentUuid": "842c9182-a352-4fd2-bffd-7af4afd09385",
           "width": 1304,
-          "x": -17,
-          "y": -6,
+          "x": -13,
+          "y": -10,
           "zOrder": 28,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 31,
-          "keepRatio": true,
-          "layer": "Performance Card",
-          "name": "Fixed_Toy_Count",
-          "persistentUuid": "64267b36-4f92-494c-a3c4-a31838a1c37d",
-          "width": 59,
-          "x": 41,
-          "y": 222,
-          "zOrder": 29,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3679,6 +3970,57 @@
           "x": 1035,
           "y": 493,
           "zOrder": 34,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 69,
+          "keepRatio": true,
+          "layer": "Performance Card",
+          "name": "Score1Txt",
+          "persistentUuid": "7bac7d5a-395b-483d-91b8-676c99b73970",
+          "width": 72,
+          "x": 317,
+          "y": 155,
+          "zOrder": 35,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 60,
+          "keepRatio": true,
+          "layer": "UI",
+          "name": "Fixed_Toy_Count",
+          "persistentUuid": "aabb085d-daee-4113-86ce-c992c61b962e",
+          "width": 208,
+          "x": 651,
+          "y": 535,
+          "zOrder": 36,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 55,
+          "keepRatio": true,
+          "layer": "Performance Card",
+          "name": "PerformaceTxt",
+          "persistentUuid": "1b02790d-d5f9-4727-bc67-0084e92f9a7e",
+          "width": 154,
+          "x": 615,
+          "y": 62,
+          "zOrder": 37,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5796,10 +6138,10 @@
               "Speed": 0
             }
           ],
-          "string": "Count:",
-          "font": "",
-          "textAlignment": "left",
-          "characterSize": 20,
+          "string": "",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 25,
           "color": {
             "b": 0,
             "g": 0,
@@ -5819,11 +6161,11 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Count:",
-            "font": "",
-            "textAlignment": "left",
+            "text": "",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "center",
             "verticalTextAlignment": "top",
-            "characterSize": 20,
+            "characterSize": 25,
             "color": "0;0;0"
           }
         },
@@ -6770,6 +7112,90 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "Score1Txt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "center",
+          "characterSize": 40,
+          "color": {
+            "b": 53,
+            "g": 53,
+            "r": 182
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "center",
+            "verticalTextAlignment": "top",
+            "characterSize": 40,
+            "color": "182;53;53"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "PerformaceTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 55,
+          "color": {
+            "b": 53,
+            "g": 53,
+            "r": 182
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 55,
+            "color": "182;53;53"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -6832,6 +7258,12 @@
               },
               {
                 "objectName": "Fixed_Toy_Count"
+              },
+              {
+                "objectName": "Score1Txt"
+              },
+              {
+                "objectName": "PerformaceTxt"
               }
             ]
           },
@@ -6913,6 +7345,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7218,6 +7651,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8502,7 +8936,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -8606,6 +9039,37 @@
                     "False",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score1",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "Score1Txt",
+                    "Text",
+                    "=",
+                    "Score1"
+                  ]
                 }
               ]
             }
@@ -8627,11 +9091,28 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "",
-                    "w"
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "w"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Up"
+                      ]
+                    }
                   ]
                 }
               ],
@@ -8654,65 +9135,28 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    "",
-                    "d"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Animation",
-                    "=",
-                    "\"Right\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "s"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Animation",
-                    "=",
-                    "\"Down\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "a"
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "a"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Left"
+                      ]
+                    }
                   ]
                 }
               ],
@@ -8735,11 +9179,28 @@
               "conditions": [
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "AnyKeyPressed"
+                    "value": "BuiltinCommonInstructions::Or"
                   },
-                  "parameters": [
-                    ""
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "s"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Down"
+                      ]
+                    }
                   ]
                 }
               ],
@@ -8752,7 +9213,51 @@
                     "Player",
                     "Animation",
                     "=",
-                    "\"Idle\""
+                    "\"Down\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Or"
+                  },
+                  "parameters": [],
+                  "subInstructions": [
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "d"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "KeyPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "Right"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                  },
+                  "parameters": [
+                    "Player",
+                    "Animation",
+                    "=",
+                    "\"Right\""
                   ]
                 }
               ]
@@ -8761,61 +9266,58 @@
           "parameters": []
         },
         {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "End Card (not a new scene)",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
             {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CompareTimer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"SceneTime\"",
-                    ">=",
-                    "60.5"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "ShowLayer"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Performance Card\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Wait"
-                  },
-                  "parameters": [
-                    "10"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Scene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Level2\"",
-                    ""
-                  ]
-                }
+              "type": {
+                "value": "CompareTimer"
+              },
+              "parameters": [
+                "",
+                "\"SceneTime\"",
+                ">=",
+                "60.5"
               ]
             }
           ],
-          "parameters": []
+          "actions": [
+            {
+              "type": {
+                "value": "ShowLayer"
+              },
+              "parameters": [
+                "",
+                "\"Performance Card\""
+              ]
+            },
+            {
+              "type": {
+                "value": "PrioritizeLoadingOfScene"
+              },
+              "parameters": [
+                "",
+                "\"Level2\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Wait"
+              },
+              "parameters": [
+                "5"
+              ]
+            },
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Level2\"",
+                ""
+              ]
+            }
+          ]
         }
       ],
       "layers": [
@@ -9460,8 +9962,8 @@
           "name": "Performance_card",
           "persistentUuid": "842c9182-a352-4fd2-bffd-7af4afd09385",
           "width": 1304,
-          "x": -16,
-          "y": -4,
+          "x": -14,
+          "y": -5,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
