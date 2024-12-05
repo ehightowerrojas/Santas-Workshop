@@ -3944,8 +3944,8 @@
           "name": "Floor",
           "persistentUuid": "ed21811d-c421-4b0d-a6e2-2745b1a7a698",
           "width": 1281,
-          "x": 1,
-          "y": 4,
+          "x": -3,
+          "y": 7,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -4106,14 +4106,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 164,
+          "height": 162,
           "keepRatio": true,
-          "layer": "",
+          "layer": "Base Base Layer",
           "name": "ToyBag",
-          "persistentUuid": "007838c1-9e90-418b-a076-393ad2410f99",
-          "width": 164,
-          "x": 684,
-          "y": 341,
+          "persistentUuid": "d10c9995-8593-46e1-8e7a-f6c2f071775f",
+          "width": 162,
+          "x": 673,
+          "y": 349,
           "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
@@ -7453,7 +7453,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7759,7 +7758,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Timer",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7961,6 +7959,15 @@
                   "parameters": [
                     "",
                     "\"Level2\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Press_E_to_Craft",
                     ""
                   ]
                 }
@@ -8629,7 +8636,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Placing + Crafting",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9050,6 +9056,15 @@
                 },
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Press_E_to_Craft",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "AnimatableCapability::AnimatableBehavior::SetName"
                   },
                   "parameters": [
@@ -9174,7 +9189,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Looping to new Toy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9332,7 +9346,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Player Animation",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9521,7 +9534,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Scoring",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -9920,7 +9932,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.5290357402156858,
+        "zoomFactor": 0.4950840073748906,
         "windowMask": false
       },
       "objectsGroups": [
@@ -10255,8 +10267,8 @@
           "name": "Floor",
           "persistentUuid": "ed21811d-c421-4b0d-a6e2-2745b1a7a698",
           "width": 1281,
-          "x": 9,
-          "y": 6,
+          "x": -1,
+          "y": 8,
           "zOrder": 26,
           "numberProperties": [],
           "stringProperties": [],
@@ -10272,7 +10284,7 @@
           "name": "Performance_card",
           "persistentUuid": "842c9182-a352-4fd2-bffd-7af4afd09385",
           "width": 1304,
-          "x": -14,
+          "x": -13,
           "y": -6,
           "zOrder": 30,
           "numberProperties": [],
@@ -10533,15 +10545,32 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 146,
+          "height": 53,
           "keepRatio": true,
-          "layer": "",
+          "layer": "Performance Card",
+          "name": "FinalScoreTxt",
+          "persistentUuid": "c5727ef9-7b65-493d-9d03-c71dee0fdcf9",
+          "width": 68,
+          "x": 325,
+          "y": 151,
+          "zOrder": 47,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 161,
+          "keepRatio": true,
+          "layer": "Base Base Layer",
           "name": "ToyBag",
-          "persistentUuid": "ba015483-493d-4e1d-80b6-7c1ba0f6ecf8",
-          "width": 146,
-          "x": 1034,
-          "y": 255,
-          "zOrder": 45,
+          "persistentUuid": "24df3131-872a-4587-8f61-7cff4420add9",
+          "width": 161,
+          "x": 1030,
+          "y": 245,
+          "zOrder": 48,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14320,6 +14349,48 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": false,
+          "italic": false,
+          "name": "FinalScoreTxt",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "",
+          "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+          "textAlignment": "left",
+          "characterSize": 35,
+          "color": {
+            "b": 53,
+            "g": 53,
+            "r": 182
+          },
+          "content": {
+            "bold": false,
+            "isOutlineEnabled": false,
+            "isShadowEnabled": false,
+            "italic": false,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 2,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "",
+            "font": "44904f17cd5efc06565a08838d627234cda763a6406798f0cbbdf1cf60c676b3_PressStart2P-Regular.ttf",
+            "textAlignment": "left",
+            "verticalTextAlignment": "top",
+            "characterSize": 35,
+            "color": "182;53;53"
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -14475,6 +14546,9 @@
           },
           {
             "objectName": "ToyBag"
+          },
+          {
+            "objectName": "FinalScoreTxt"
           }
         ]
       },
@@ -15895,8 +15969,8 @@
                   "parameters": [
                     "",
                     "Press_E_to_Craft",
-                    "318",
-                    "335",
+                    "753",
+                    "374",
                     ""
                   ]
                 }
@@ -16144,6 +16218,15 @@
                 },
                 {
                   "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Press_E_to_Craft",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -16289,6 +16372,16 @@
                 },
                 {
                   "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Score",
+                    "+",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Create"
                   },
                   "parameters": [
@@ -16359,6 +16452,17 @@
                     "",
                     "5",
                     "1.3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "FinalScoreTxt",
+                    "Text",
+                    "=",
+                    "Score"
                   ]
                 }
               ]
