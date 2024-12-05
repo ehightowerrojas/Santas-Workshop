@@ -14484,7 +14484,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Misc.",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15022,7 +15021,7 @@
                     "",
                     "\"SceneTime\"",
                     ">=",
-                    "60"
+                    "90"
                   ]
                 }
               ],
@@ -16760,7 +16759,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "End Card (not a new scene)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16776,7 +16774,7 @@
                     "",
                     "\"SceneTime\"",
                     ">=",
-                    "60.5"
+                    "90.5"
                   ]
                 }
               ],
