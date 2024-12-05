@@ -1330,6 +1330,14 @@
         "name": "NewTiledSprite5",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "file": "customassets/Items/Sack.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "customassets\\Items\\Sack.png",
+        "smoothed": true,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -3936,26 +3944,9 @@
           "name": "Floor",
           "persistentUuid": "ed21811d-c421-4b0d-a6e2-2745b1a7a698",
           "width": 1281,
-          "x": 0,
+          "x": 1,
           "y": 4,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 142,
-          "keepRatio": true,
-          "layer": "Base Base Layer",
-          "name": "ToyBag",
-          "persistentUuid": "45d38bd2-d113-426f-996f-a21c2d368edd",
-          "width": 149,
-          "x": 682,
-          "y": 393,
-          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3971,7 +3962,7 @@
           "persistentUuid": "842c9182-a352-4fd2-bffd-7af4afd09385",
           "width": 1304,
           "x": -13,
-          "y": -10,
+          "y": -6,
           "zOrder": 28,
           "numberProperties": [],
           "stringProperties": [],
@@ -4101,12 +4092,29 @@
           "height": 55,
           "keepRatio": true,
           "layer": "Performance Card",
-          "name": "PerformaceTxt",
+          "name": "PerformanceTxt",
           "persistentUuid": "1b02790d-d5f9-4727-bc67-0084e92f9a7e",
           "width": 154,
           "x": 615,
           "y": 62,
           "zOrder": 37,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 164,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ToyBag",
+          "persistentUuid": "007838c1-9e90-418b-a076-393ad2410f99",
+          "width": 164,
+          "x": 684,
+          "y": 341,
+          "zOrder": 38,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -6141,66 +6149,6 @@
           "behaviors": []
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ToyBag",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Santas-Toy-Bag.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 400,
-                            "y": 0
-                          },
-                          {
-                            "x": 400,
-                            "y": 723
-                          },
-                          {
-                            "x": 0,
-                            "y": 723
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -7245,7 +7193,7 @@
           "assetStoreId": "",
           "bold": false,
           "italic": false,
-          "name": "PerformaceTxt",
+          "name": "PerformanceTxt",
           "smoothed": true,
           "type": "TextObject::Text",
           "underlined": false,
@@ -7282,6 +7230,77 @@
             "characterSize": 55,
             "color": "182;53;53"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "NewSprite",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ToyBag",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\Sack.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 8
+                          },
+                          {
+                            "x": 248,
+                            "y": 8
+                          },
+                          {
+                            "x": 248,
+                            "y": 248
+                          },
+                          {
+                            "x": 36,
+                            "y": 248
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -7349,7 +7368,7 @@
                 "objectName": "Score1Txt"
               },
               {
-                "objectName": "PerformaceTxt"
+                "objectName": "PerformanceTxt"
               }
             ]
           },
@@ -7367,9 +7386,6 @@
               },
               {
                 "objectName": "Floor"
-              },
-              {
-                "objectName": "ToyBag"
               },
               {
                 "objectName": "Saw"
@@ -7405,6 +7421,9 @@
                 "objectName": "Conveyor_Belt"
               },
               {
+                "objectName": "ToyBag"
+              },
+              {
                 "objectName": "Barrier"
               }
             ]
@@ -7422,6 +7441,9 @@
           },
           {
             "objectName": "Performance_card"
+          },
+          {
+            "objectName": "NewSprite"
           }
         ]
       },
@@ -9524,7 +9546,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"F\""
@@ -9552,7 +9574,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"C\""
@@ -9580,7 +9602,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"B\""
@@ -9608,7 +9630,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"A\""
@@ -10233,26 +10255,9 @@
           "name": "Floor",
           "persistentUuid": "ed21811d-c421-4b0d-a6e2-2745b1a7a698",
           "width": 1281,
-          "x": 0,
-          "y": 4,
+          "x": 9,
+          "y": 6,
           "zOrder": 26,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 142,
-          "keepRatio": true,
-          "layer": "Base Base Layer",
-          "name": "ToyBag",
-          "persistentUuid": "45d38bd2-d113-426f-996f-a21c2d368edd",
-          "width": 149,
-          "x": 1029,
-          "y": 221,
-          "zOrder": 27,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10267,8 +10272,8 @@
           "name": "Performance_card",
           "persistentUuid": "842c9182-a352-4fd2-bffd-7af4afd09385",
           "width": 1304,
-          "x": -10,
-          "y": -8,
+          "x": -14,
+          "y": -6,
           "zOrder": 30,
           "numberProperties": [],
           "stringProperties": [],
@@ -10520,6 +10525,23 @@
           "x": 0,
           "y": 594,
           "zOrder": 44,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 146,
+          "keepRatio": true,
+          "layer": "",
+          "name": "ToyBag",
+          "persistentUuid": "ba015483-493d-4e1d-80b6-7c1ba0f6ecf8",
+          "width": 146,
+          "x": 1034,
+          "y": 255,
+          "zOrder": 45,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -12554,66 +12576,6 @@
           "behaviors": []
         },
         {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
-          "name": "ToyBag",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": [
-            {
-              "name": "",
-              "useMultipleDirections": false,
-              "directions": [
-                {
-                  "looping": false,
-                  "timeBetweenFrames": 0.08,
-                  "sprites": [
-                    {
-                      "hasCustomCollisionMask": true,
-                      "image": "Santas-Toy-Bag.jpg",
-                      "points": [],
-                      "originPoint": {
-                        "name": "origine",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "centerPoint": {
-                        "automatic": true,
-                        "name": "centre",
-                        "x": 0,
-                        "y": 0
-                      },
-                      "customCollisionMask": [
-                        [
-                          {
-                            "x": 0,
-                            "y": 0
-                          },
-                          {
-                            "x": 400,
-                            "y": 0
-                          },
-                          {
-                            "x": 400,
-                            "y": 723
-                          },
-                          {
-                            "x": 0,
-                            "y": 723
-                          }
-                        ]
-                      ]
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "assetStoreId": "",
           "bold": false,
           "italic": false,
@@ -14298,6 +14260,66 @@
             "characterSize": 30,
             "color": "182;53;53"
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ToyBag",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "customassets\\Items\\Sack.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 36,
+                            "y": 8
+                          },
+                          {
+                            "x": 248,
+                            "y": 8
+                          },
+                          {
+                            "x": 248,
+                            "y": 248
+                          },
+                          {
+                            "x": 36,
+                            "y": 248
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -14385,9 +14407,6 @@
                 "objectName": "Floor"
               },
               {
-                "objectName": "ToyBag"
-              },
-              {
                 "objectName": "Saw"
               },
               {
@@ -14453,6 +14472,9 @@
           },
           {
             "objectName": "FinalTxt"
+          },
+          {
+            "objectName": "ToyBag"
           }
         ]
       },
@@ -16538,7 +16560,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Scoring",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16563,7 +16584,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"F\""
@@ -16610,7 +16631,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"C\""
@@ -16657,7 +16678,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"B\""
@@ -16704,7 +16725,7 @@
                     "value": "TextContainerCapability::TextContainerBehavior::SetValue"
                   },
                   "parameters": [
-                    "PerformaceTxt",
+                    "PerformanceTxt",
                     "Text",
                     "=",
                     "\"A\""
